@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <link rel="stylesheet" href="signin.css">
+    </head>
+<body>
+      <form class="",style="" action="">
+        <h2 class="",style="">Please sign in</h2>
+        <label for="inputEmail" class="",style="">Email address</label>
+        <input type="email" id="inputEmail" class="",style="" placeholder="Email address"  required autofocus>
+        <label for="inputPassword" class="",style="">Password</label>
+        <input type="password" id="inputPassword" class="",style="" placeholder="Password" required>
+        <div class="",style="">
+          <label>
+            <input type="checkbox" value="remember-me"> Remember me
+          </label>
+        </div>
+        <button class="",style="" type="submit">Sign in</button>
+
+      </form>
+        </div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </body>
+</html>

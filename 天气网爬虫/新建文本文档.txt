@@ -1,0 +1,4 @@
+import re
+s='asd,asf,asg,ash,asj'
+m = re.findall("as\w",s)
+print m
