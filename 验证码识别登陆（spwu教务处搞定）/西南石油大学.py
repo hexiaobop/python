@@ -26,8 +26,8 @@ def login():
     image = Image.open('yan.jpg')  # Open image object using PIL
     yanstring = image_to_string(image)[:4]     # Run tesseract.exe on image
     print yanstring[:4]
-    username='1205030229'
-    password='KZEBNL'
+    username=''
+    password=''
 
     postdata={'zjh1':'','tips':'','lx':'','evalue':'','eflag':'','fs':'','dzslh':'','zjh':username,'mm':password,'v_yzm':yanstring,
                 
@@ -62,7 +62,7 @@ while(a):
     else:
         s=[' ']
         for i in soup.find_all('td',align="center"):
-            print i.get_text().strip()
+            print i.get_text().strip().encode('gbk')
             s.append(i.get_text())
         
         a = False

@@ -1,7 +1,8 @@
 
 # -*- coding: utf-8 -*-
 import urllib2
-import urllib
+
+import urllib
 
 
 
@@ -27,6 +28,7 @@ def pro(ip1,url):
         print html.getcode()
 fp = open(u"代理.txt","r")
 ips = fp.readlines()
+print ips
 
 for i in range(1,10):
     

@@ -1,0 +1,1301 @@
+!DOCTYPE HTML>
+<!--STATUS OK-->
+<html class="expanded">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=1280">
+<title>
+图书推荐_正版电子书在线阅读_百度阅读
+</title>
+
+<script>
+
+    void function(g,f,j,c,h,d,b){g.alogObjectName=h,g[h]=g[h]||function(){(g[h].q=g[h].q||[]).push(arguments)},g[h].l=g[h].l||+new Date,d=f.createElement(j),d.async=!0,d.src=c,b=f.getElementsByTagName(j)[0],b.parentNode.insertBefore(d,b)}(window,document,"script","http://img.baidu.com/hunter/alog/alog.min.js","alog");void function(){function c(){return;}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date);alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:c,tti:c,page_ready:c}}();void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+
+</script>
+
+
+
+
+<meta name="keywords" content="电子书,在线阅读,排行榜,百度阅读"/>
+
+
+
+<script type="text/javascript">!function(n){var t={},i={};i.get=function(n){return t[n]},i.set=function(n,i){if("string"==typeof n)t[n]=i;else for(var r in n)n.hasOwnProperty(r)&&(t[r]=n[r])},n.__fisData=i}(window);</script>
+<link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/css_core/css_core_31a0946.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_base_90d321c.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_btn_d86f692.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/drop_ax/drop_ax_722c12d.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_yui_7105081.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/widget/ui/pay/cashier/cashier_c907a59.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/widget/read/top_reco/top_reco_bb02634.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_bookList_0706c06.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcore/book_list/book_list_35e5b7c.css"/></head>
+
+<script> alog('speed.set', 'ht', +new Date); </script>
+
+<body>
+
+<script type="text/javascript">
+			    (function() {
+			        var fontWrapClass = '';
+			        if (/windows/i.test(navigator.userAgent)) {
+			            var winNt = navigator.userAgent.match(/Windows NT (\d).(\d)/);
+			            if ((+winNt[1]) > 5) {
+			                fontWrapClass = 'mod-font-win7';
+			            }
+			        } else if (/macintosh/i.test(navigator.userAgent)) {
+			            fontWrapClass = 'mod-font-mac';
+			        }
+
+			        if (fontWrapClass === '') {
+			            fontWrapClass = 'mod-font-other';
+			        }
+			        document.body.className += fontWrapClass;
+			    }());
+			</script>
+
+
+
+
+
+<script>
+	(function(Data) {
+		var WkInfo = Data.get("WkInfo") || {};
+		WkInfo.PageInfo = {
+			'isLogin' : false,
+			'copyright' : "", //copyright
+			'tpl'     :  "wk_info",
+			'docTypeList':[[ 'none', '' ],
+					       [ 'doc', 'Word文档' ],
+					       [ 'xls', 'Excel表格' ],
+					       [ 'ppt', 'PPT文稿' ],
+					       [ 'doc', 'Word文档' ],
+					       [ 'xls', 'Excel表格' ],
+					       [ 'ppt', 'PPT文稿' ],
+					       [ 'pdf', 'pdf文档' ],
+					       [ 'txt', 'txt文档' ],
+					       [ 'wps', 'Word（金山）' ],
+					       [ 'et', 'Excel（金山）' ],
+					       [ 'dps', 'PPT（金山）' ],
+					       [ 'vsd', 'Visio绘图' ],
+					       [ 'rtf', 'rtf文档' ],
+					       [ 'pot', 'PPT模板' ],
+					       [ 'pps', 'PPT放映' ],
+					       [ 'epub', 'ePub文档' ]]
+		};
+				Data.set("WkInfo",WkInfo);
+	}(window.__fisData));
+</script>
+
+<script>
+					 (function (fis_data) {
+						var d = Data = fis_data;
+						var WkInfo = d.get('WkInfo') || {};
+	            		WkInfo.DocInfo = {};
+	            		d.set('WkInfo', WkInfo);
+						d.set('base_layout', 'book_view_layout');
+
+						
+var show = +'0';var class_list = '[{\x22cid\x22:\x226\x22,\x22cname\x22:\x22\\u5c0f\\u8bf4\x22,\x22child_list\x22:[{\x22cid\x22:\x226027\x22,\x22cname\x22:\x22\\u8a00\\u60c5\x22},{\x22cid\x22:\x226032\x22,\x22cname\x22:\x22\\u9752\\u6625\x22},{\x22cid\x22:\x226030\x22,\x22cname\x22:\x22\\u90fd\\u5e02\x22},{\x22cid\x22:\x226028\x22,\x22cname\x22:\x22\\u5386\\u53f2\x22},{\x22cid\x22:\x226031\x22,\x22cname\x22:\x22\\u79d1\\u5e7b\x22},{\x22cid\x22:\x226006\x22,\x22cname\x22:\x22\\u519b\\u4e8b\x22},{\x22cid\x22:\x226026\x22,\x22cname\x22:\x22\\u5b98\\u573a\\u5546\\u6218\x22},{\x22cid\x22:\x226014\x22,\x22cname\x22:\x22\\u60ac\\u7591\\u63a8\\u7406\x22},{\x22cid\x22:\x226033\x22,\x22cname\x22:\x22\\u6b66\\u4fa0\\u9b54\\u5e7b\x22},{\x22cid\x22:\x226034\x22,\x22cname\x22:\x22\\u7075\\u5f02\\u6050\\u6016\x22},{\x22cid\x22:\x226004\x22,\x22cname\x22:\x22\\u793e\\u4f1a\\u4e61\\u571f\x22},{\x22cid\x22:\x226021\x22,\x22cname\x22:\x22\\u5f71\\u89c6\\u6587\\u5b66\x22},{\x22cid\x22:\x226002\x22,\x22cname\x22:\x22\\u73b0\\u5f53\\u4ee3\\u5c0f\\u8bf4\x22},{\x22cid\x22:\x226024\x22,\x22cname\x22:\x22\\u5916\\u56fd\\u6587\\u5b66\x22},{\x22cid\x22:\x226035\x22,\x22cname\x22:\x22\\u5176\\u4ed6\x22}]},{\x22cid\x22:\x221\x22,\x22cname\x22:\x22\\u7ecf\\u6d4e\\u7ba1\\u7406\x22,\x22child_list\x22:[{\x22cid\x22:\x221001\x22,\x22cname\x22:\x22\\u4f01\\u4e1a\\u7ba1\\u7406\x22},{\x22cid\x22:\x221010\x22,\x22cname\x22:\x22\\u7ecf\\u6d4e\\u91d1\\u878d\x22},{\x22cid\x22:\x221003\x22,\x22cname\x22:\x22\\u6295\\u8d44\\u7406\\u8d22\x22},{\x22cid\x22:\x221004\x22,\x22cname\x22:\x22\\u5e02\\u573a\\u8425\\u9500\x22},{\x22cid\x22:\x221015\x22,\x22cname\x22:\x22\\u8d22\\u4f1a\\u7edf\\u8ba1\x22},{\x22cid\x22:\x221017\x22,\x22cname\x22:\x22\\u901a\\u4fd7\\u8bfb\\u7269\x22}]},{\x22cid\x22:\x222\x22,\x22cname\x22:\x22\\u6210\\u529f\\u52b1\\u5fd7\x22,\x22child_list\x22:[{\x22cid\x22:\x222019\x22,\x22cname\x22:\x22\\u6210\\u529f\\u5b66\x22},{\x22cid\x22:\x222008\x22,\x22cname\x22:\x22\\u4eba\\u5728\\u804c\\u573a\x22},{\x22cid\x22:\x222001\x22,\x22cname\x22:\x22\\u6f14\\u8bb2\\u53e3\\u624d\x22},{\x22cid\x22:\x222009\x22,\x22cname\x22:\x22\\u4eba\\u9645\\u5904\\u4e8b\x22},{\x22cid\x22:\x222003\x22,\x22cname\x22:\x22\\u5fc3\\u7075\\u4fee\\u517b\x22},{\x22cid\x22:\x222002\x22,\x22cname\x22:\x22\\u6027\\u683c\\u4e0e\\u60c5\\u7eea\x22},{\x22cid\x22:\x222012\x22,\x22cname\x22:\x22\\u9752\\u5c11\\u5e74\\u52b1\\u5fd7\x22}]},{\x22cid\x22:\x2215\x22,\x22cname\x22:\x22\\u5386\\u53f2\\u4f20\\u8bb0\x22,\x22child_list\x22:[{\x22cid\x22:\x2215002\x22,\x22cname\x22:\x22\\u4eba\\u7269\\u4f20\\u8bb0\x22},{\x22cid\x22:\x2215003\x22,\x22cname\x22:\x22\\u666e\\u53ca\\u8bfb\\u7269\x22},{\x22cid\x22:\x2215004\x22,\x22cname\x22:\x22\\u4e16\\u754c\\u5404\\u56fd\\u53f2\x22},{\x22cid\x22:\x2215001\x22,\x22cname\x22:\x22\\u4e2d\\u56fd\\u53f2\x22}]},{\x22cid\x22:\x223\x22,\x22cname\x22:\x22\\u8ba1\\u7b97\\u673a\x22,\x22child_list\x22:[{\x22cid\x22:\x223001\x22,\x22cname\x22:\x22\\u8f6f\\u786c\\u4ef6\\u5f00\\u53d1\x22},{\x22cid\x22:\x223003\x22,\x22cname\x22:\x22\\u56fe\\u5f62\\u4e0e\\u56fe\\u50cf\x22},{\x22cid\x22:\x223013\x22,\x22cname\x22:\x22\\u7f51\\u7edc\\u4e0e\\u901a\\u4fe1\x22},{\x22cid\x22:\x223004\x22,\x22cname\x22:\x22\\u5bb6\\u5ead\\u4e0e\\u529e\\u516c\x22},{\x22cid\x22:\x223005\x22,\x22cname\x22:\x22IT\\u4eba\\u6587\x22},{\x22cid\x22:\x223008\x22,\x22cname\x22:\x22\\u5176\\u4ed6\x22}]},{\x22cid\x22:\x2216\x22,\x22cname\x22:\x22\\u4e24\\u6027\\u60c5\\u611f\x22,\x22child_list\x22:[{\x22cid\x22:\x2216001\x22,\x22cname\x22:\x22\\u4e24\\u6027\\u5173\\u7cfb\x22},{\x22cid\x22:\x2216002\x22,\x22cname\x22:\x22\\u5a5a\\u59fb\\u5bb6\\u5ead\x22},{\x22cid\x22:\x2216003\x22,\x22cname\x22:\x22\\u60c5\\u611f\\u604b\\u7231\x22}]},{\x22cid\x22:\x225\x22,\x22cname\x22:\x22\\u751f\\u6d3b\x22,\x22child_list\x22:[{\x22cid\x22:\x225005\x22,\x22cname\x22:\x22\\u70f9\\u8c03\\u996e\\u98df\x22},{\x22cid\x22:\x225006\x22,\x22cname\x22:\x22\\u5065\\u5eb7\\u517b\\u751f\x22},{\x22cid\x22:\x225004\x22,\x22cname\x22:\x22\\u5360\\u661f\\u98ce\\u6c34\x22},{\x22cid\x22:\x225007\x22,\x22cname\x22:\x22\\u65f6\\u5c1a\\u6444\\u5f71\x22},{\x22cid\x22:\x225010\x22,\x22cname\x22:\x22\\u65c5\\u6e38\\u5730\\u7406\x22},{\x22cid\x22:\x225008\x22,\x22cname\x22:\x22\\u5bb6\\u5c45\\u624b\\u5de5\x22},{\x22cid\x22:\x225003\x22,\x22cname\x22:\x22\\u7f8e\\u5bb9\\u5851\\u8eab\x22},{\x22cid\x22:\x225013\x22,\x22cname\x22:\x22\\u8fd0\\u52a8\\u5065\\u8eab\x22},{\x22cid\x22:\x225014\x22,\x22cname\x22:\x22\\u4f11\\u95f2\\u5a31\\u4e50\x22}]},{\x22cid\x22:\x2210\x22,\x22cname\x22:\x22\\u4eb2\\u5b50\\u5c11\\u513f\x22,\x22child_list\x22:[{\x22cid\x22:\x2210008\x22,\x22cname\x22:\x22\\u5b55\\u4ea7\\u80b2\\u513f\x22},{\x22cid\x22:\x2210007\x22,\x22cname\x22:\x22\\u513f\\u7ae5\\u6587\\u5b66\x22},{\x22cid\x22:\x2210006\x22,\x22cname\x22:\x22\\u79d1\\u666e\\u767e\\u79d1\x22},{\x22cid\x22:\x2210003\x22,\x22cname\x22:\x22\\u5e7c\\u513f\\u542f\\u8499\x22}]},{\x22cid\x22:\x227\x22,\x22cname\x22:\x22\\u6587\\u5b66\\u827a\\u672f\x22,\x22child_list\x22:[{\x22cid\x22:\x227003\x22,\x22cname\x22:\x22\\u6563\\u6587\\u968f\\u7b14\x22},{\x22cid\x22:\x227010\x22,\x22cname\x22:\x22\\u7ed8\\u672c\\u753b\\u518c\x22},{\x22cid\x22:\x227001\x22,\x22cname\x22:\x22\\u8bbe\\u8ba1\\u7f8e\\u672f\x22},{\x22cid\x22:\x227002\x22,\x22cname\x22:\x22\\u97f3\\u4e50\\u620f\\u5267\x22},{\x22cid\x22:\x227004\x22,\x22cname\x22:\x22\\u7eaa\\u5b9e\\u6587\\u5b66\x22},{\x22cid\x22:\x227005\x22,\x22cname\x22:\x22\\u6587\\u5b66\\u7406\\u8bba\x22},{\x22cid\x22:\x227006\x22,\x22cname\x22:\x22\\u8bd7\\u8bcd\\u6b4c\\u8d4b\x22},{\x22cid\x22:\x227009\x22,\x22cname\x22:\x22\\u56fd\\u5b66\\u7ecf\\u5178\x22},{\x22cid\x22:\x227008\x22,\x22cname\x22:\x22\\u4e16\\u754c\\u540d\\u8457\x22},{\x22cid\x22:\x227007\x22,\x22cname\x22:\x22\\u5176\\u4ed6\x22}]},{\x22cid\x22:\x224\x22,\x22cname\x22:\x22\\u793e\\u4f1a\\u79d1\\u5b66\x22,\x22child_list\x22:[{\x22cid\x22:\x224006\x22,\x22cname\x22:\x22\\u793e\\u4f1a\\u5b66\x22},{\x22cid\x22:\x224003\x22,\x22cname\x22:\x22\\u5fc3\\u7406\\u5b66\x22},{\x22cid\x22:\x224004\x22,\x22cname\x22:\x22\\u5b97\\u6559\\u54f2\\u5b66\x22},{\x22cid\x22:\x224010\x22,\x22cname\x22:\x22\\u519b\\u4e8b\\u6cd5\\u5f8b\x22},{\x22cid\x22:\x224011\x22,\x22cname\x22:\x22\\u65f6\\u4e8b\\u653f\\u6cbb\x22},{\x22cid\x22:\x224014\x22,\x22cname\x22:\x22\\u6587\\u5316\x22},{\x22cid\x22:\x224013\x22,\x22cname\x22:\x22\\u6559\\u80b2\\u8003\\u8bd5\x22},{\x22cid\x22:\x224005\x22,\x22cname\x22:\x22\\u5176\\u4ed6\x22}]},{\x22cid\x22:\x229\x22,\x22cname\x22:\x22\\u79d1\\u6280\x22,\x22child_list\x22:[{\x22cid\x22:\x229030\x22,\x22cname\x22:\x22\\u79d1\\u666e\\u8bfb\\u7269\x22},{\x22cid\x22:\x229003\x22,\x22cname\x22:\x22\\u81ea\\u7136\\u79d1\\u5b66\x22},{\x22cid\x22:\x229004\x22,\x22cname\x22:\x22\\u533b\\u5b66\x22},{\x22cid\x22:\x229005\x22,\x22cname\x22:\x22\\u5de5\\u4e1a\\u6280\\u672f\x22},{\x22cid\x22:\x229002\x22,\x22cname\x22:\x22\\u5176\\u4ed6\x22}]},{\x22cid\x22:\x2211\x22,\x22cname\x22:\x22\\u539f\\u521b\\u7537\\u9891\x22,\x22child_list\x22:[{\x22cid\x22:\x2211001\x22,\x22cname\x22:\x22\\u7384\\u5e7b\\u5947\\u5e7b\x22},{\x22cid\x22:\x2211002\x22,\x22cname\x22:\x22\\u6b66\\u4fa0\\u4ed9\\u4fa0\x22},{\x22cid\x22:\x2211003\x22,\x22cname\x22:\x22\\u90fd\\u5e02\\u751f\\u6d3b\x22},{\x22cid\x22:\x2211012\x22,\x22cname\x22:\x22\\u5b98\\u573a\\u5546\\u6218\x22},{\x22cid\x22:\x2211004\x22,\x22cname\x22:\x22\\u5386\\u53f2\\u67b6\\u7a7a\x22},{\x22cid\x22:\x2211013\x22,\x22cname\x22:\x22\\u519b\\u4e8b\\u8c0d\\u6218\x22},{\x22cid\x22:\x2211014\x22,\x22cname\x22:\x22\\u79d1\\u5e7b\\u672b\\u65e5\x22},{\x22cid\x22:\x2211006\x22,\x22cname\x22:\x22\\u7075\\u5f02\\u60ac\\u7591\x22},{\x22cid\x22:\x2211005\x22,\x22cname\x22:\x22\\u6e38\\u620f\\u7ade\\u6280\x22},{\x22cid\x22:\x2211015\x22,\x22cname\x22:\x22\\u5176\\u4ed6\x22}]},{\x22cid\x22:\x2212\x22,\x22cname\x22:\x22\\u539f\\u521b\\u5973\\u9891\x22,\x22child_list\x22:[{\x22cid\x22:\x2212002\x22,\x22cname\x22:\x22\\u73b0\\u4ee3\\u8a00\\u60c5\x22},{\x22cid\x22:\x2212001\x22,\x22cname\x22:\x22\\u5a5a\\u604b\\u60c5\\u611f\x22},{\x22cid\x22:\x2212005\x22,\x22cname\x22:\x22\\u53e4\\u8a00\\u67b6\\u7a7a\x22},{\x22cid\x22:\x2212004\x22,\x22cname\x22:\x22\\u7a7f\\u8d8a\\u91cd\\u751f\x22},{\x22cid\x22:\x2212003\x22,\x22cname\x22:\x22\\u6d6a\\u6f2b\\u9752\\u6625\x22},{\x22cid\x22:\x2212006\x22,\x22cname\x22:\x22\\u6b66\\u4fa0\\u4ed9\\u4fa0\x22},{\x22cid\x22:\x2212007\x22,\x22cname\x22:\x22\\u5e7b\\u60f3\\u5f02\\u80fd\x22},{\x22cid\x22:\x2212008\x22,\x22cname\x22:\x22\\u5176\\u4ed6\x22}]},{\x22cid\x22:\x2213\x22,\x22cname\x22:\x22\\u5916\\u6587\x22,\x22child_list\x22:[{\x22cid\x22:\x2213001\x22,\x22cname\x22:\x22\\u5176\\u4ed6\x22}]},{\x22cid\x22:\x2214\x22,\x22cname\x22:\x22\\u671f\\u520a\x22,\x22child_list\x22:[{\x22cid\x22:\x2214001\x22,\x22cname\x22:\x22\\u5176\\u4ed6\x22}]}]';var book_list = '[{\x22doc_id\x22:\x2260788ceb7f1922791688e893\x22,\x22title\x22:\x22\\u4eba\\u751f\\u8def\\u4e0a\\u7684\\u81ea\\u6211\\u4fee\\u70bc\x22,\x22author\x22:\x22\\uff08\\u7f8e\\uff09\\u5965\\u91cc\\u68ee\\u30fb\\u9a6c\\u767b\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/10dfa9ec8a1363279939d93d938fa0ec09fac7ec.jpg\x22,\x22paper_price\x22:\x2214.00\x22,\x22price\x22:\x221.99\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u7d2b\\u4e91\\u6587\\u5fc3\\u7535\\u5b50\\u4e66\x22,\x22confirm_price\x22:\x22199\x22,\x22payprice\x22:\x22300\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22199\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u6210\\u529f\\u662f\\u65e0\\u6cd5\\u88ab\\u590d\\u5236\\u7684\\uff0c\\u4f60\\u8981\\u63a2\\u7d22\\u81ea\\u5df1\\u7684\\u6210\\u529f\\u4e4b\\u8def\\u3002\\u53ea\\u6709\\u53bb\\u5c1d\\u8bd5\\uff0c\\u4f60\\u624d\\u77e5\\u9053\\u81ea\\u5df1\\u80fd\\u505a\\u4ec0\\u4e48\\uff1b\\u53ea\\u6709\\u53bb\\u5c1d\\u8bd5\\uff0c\\u4f60\\u5185\\u5fc3\\u7684\\u6f5c\\u80fd\\u624d\\u80fd\\u88ab\\u6fc0\\u53d1\\uff0c\\u4f60\\u624d\\u80fd\\u66f4\\u52a0\\u4ece\\u5bb9\\u5730\\u5e94\\u5bf9\\u751f\\u6d3b\\u4e2d\\u7684\\u96be\\u9898\\u3002\\u4e0d\\u7ba1\\u662f\\u5728\\u79c1\\u4eba\\u751f\\u6d3b\\u4e2d\\u8fd8\\u662f\\u5728\\u516c\\u4f17\\u751f\\u6d3b\\u4e2d\\uff0c\\u4f60\\u90fd\\u5e94\\u5f53\\u5728\\u4e16\\u4eba\\u7684\\u9762\\u524d\\u575a\\u5b88\\u81ea\\u5df1\\u7684\\u539f\\u5219\\uff0c\\u7528\\u4f60\\u575a\\u6bc5\\u7684\\u795e\\u60c5\\u548c\\u6001\\u5ea6\\u6765\\u8868\\u660e\\uff0c\\u4f60\\u7684\\u5185\\u5fc3\\u6709\\u67d0\\u79cd\\u4e1c\\u897f\\u662f\\u4e0d\\u80fd\\u88ab\\u6539\\u53d8\\u7684\\u3002\\u8ba4\\u8bc6\\u81ea\\u6211\\uff0c\\u63a5\\u53d7\\u81ea\\u6211\\uff0c\\u5347\\u534e\\u81ea\\u6211\\u3002\\u5c06\\u81ea\\u5df1\\u7684\\u4eba\\u751f\\u7262\\u7262\\u638c\\u63e1\\u5728\\u81ea\\u5df1\\u624b\\u4e2d\\uff01  \x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x22172a6258561252d380eb6ef3\x22,\x22title\x22:\x22\\u81ea\\u7acb\x22,\x22author\x22:\x22\\uff08\\u7f8e\\uff09\\u62c9\\u5c14\\u592b\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/908fa0ec08fa513ddd286dd03f6d55fbb2fbd93a.jpg\x22,\x22paper_price\x22:\x2214.00\x22,\x22price\x22:\x223.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u7d2b\\u4e91\\u6587\\u5fc3\\u7535\\u5b50\\u4e66\x22,\x22confirm_price\x22:\x22300\x22,\x22payprice\x22:\x22300\x22,\x22now_effective_activity\x22:\x220\x22,\x22activity_devices_list\x22:[],\x22abstract\x22:\x22\\u3000\\u3000\\u300a\\u5fc3\\u7075\\u52b1\\u5fd7\\u8896\\u73cd\\u9986\\uff1a\\u81ea\\u7acb\\u300b\\u662f\\u7231\\u9ed8\\u751f\\u7684\\u7ecf\\u5178\\u540d\\u8457\\uff0c\\u540d\\u8a00\\u8b66\\u53e5\\u4fef\\u62fe\\u7686\\u662f\\uff0c\\u5b83\\u53f7\\u53ec\\u7f8e\\u56fd\\u4eba\\u82e5\\u8981\\u53d6\\u5f97\\u6210\\u529f\\uff0c\\u4e0d\\u8981\\u4f9d\\u8d56\\u4ed6\\u4eba\\uff0c\\u800c\\u8981\\u4f9d\\u9760\\u81ea\\u5df1\\u3002\\u6bcf\\u4e2a\\u4eba\\u90fd\\u6709\\u81ea\\u5df1\\u7684\\u5929\\u8d4b\\uff0c\\u53ea\\u6709\\u5728\\u81ea\\u5df1\\u7684\\u884c\\u52a8\\u4e2d\\uff0c\\u624d\\u80fd\\u53d1\\u73b0\\u81ea\\u5df1\\uff0c\\u624d\\u662f\\u5411\\u4e16\\u754c\\u5ba3\\u5e03\\u4ed6\\u5177\\u6709\\u600e\\u6837\\u7684\\u4ef7\\u503c\\u7684\\u6700\\u597d\\u65b9\\u5f0f\\u3002\\n\\u3000\\u3000\\u300a\\u5fc3\\u7075\\u52b1\\u5fd7\\u8896\\u73cd\\u9986\\uff1a\\u81ea\\u7acb\\u300b\\u662f\\u62c9\\u5c14\\u592b;\\u7231\\u9ed8\\u751f\\u601d\\u60f3\\u96c6\\u5927\\u6210\\u4e4b\\u4f5c\\uff0c\\u5b83\\u5021\\u5bfc\\u4eba\\u4eec\\u8ffd\\u6c42\\u81ea\\u6211\\uff0c\\u9f13\\u5439\\u4e2a\\u6027\\u81ea\\u7531\\uff0c\\u81ea\\u5df1\\u4e3b\\u5bb0\\u81ea\\u5df1\\u3002\\u6b64\\u4e66\\u6c47\\u96c6\\u7231\\u9ed8\\u751f\\u601d\\u60f3\\u4e4b\\u7cbe\\u9ad3\\uff0c\\u5176\\u4e2d\\u540d\\u8a00\\u8b66\\u53e5\\u8fed\\u51fa\\uff0c\\u5904\\u5904\\u53d1\\u4eba\\u6df1\\u7701\\u3001\\u9707\\u64bc\\u4eba\\u5fc3\\uff0c\\u662f\\u4e0d\\u53ef\\u591a\\u5f97\\u7684\\u7ecf\\u5178\\u4e4b\\u4f5c\\u3002\\u901a\\u8fc7\\u9605\\u8bfb\\u6b64\\u4e66\\uff0c\\u6211\\u4eec\\u4e0d\\u4ec5\\u53ef\\u4ee5\\u77e5\\u9053\\u6797\\u80af\\u3001\\u5965\\u5df4\\u9a6c\\u4e3a\\u4ec0\\u4e48\\u5bf9\\u8fd9\\u672c\\u4e66\\u548c\\u7231\\u9ed8\\u751f\\u672c\\u4eba\\u63a8\\u5d07\\u5907\\u81f3\\uff0c\\u800c\\u4e14\\u6211\\u4eec\\u7684\\u7cbe\\u795e\\u4e5f\\u53ef\\u4ee5\\u5f97\\u5230\\u5347\\u534e\\u3002\\n \x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x2210a61ce0195f312b3169a5f4\x22,\x22title\x22:\x22\\u518d\\u82e6\\uff0c\\u4e5f\\u8981\\u903c\\u81ea\\u5df1\\u4e00\\u4e0b\\uff1a50\\u4f4d\\u540d\\u4eba\\u7684\\u9006\\u5883\\u5546\\u4fee\\u70bc\x22,\x22author\x22:\x22\\u8463\\u6743\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/c9fcc3cec3fdfc03765330c6d63f8794a4c226a1.jpg\x22,\x22paper_price\x22:\x2236.00\x22,\x22price\x22:\x2213.99\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22ptpress2013\x22,\x22confirm_price\x22:\x221399\x22,\x22payprice\x22:\x222160\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x221399\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x221399\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x221399\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x221399\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x221399\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u5982\\u4f55\\u624d\\u80fd\\u8d70\\u51fa\\u4eba\\u751f\\u7684\\u56f0\\u5883\\uff0c\\u6539\\u53d8\\u81ea\\u5df1\\u7684\\u73b0\\u72b6\\uff1f\\u5df4\\u83f2\\u7279\\u3001\\u6851\\u5fb7\\u65af\\u3001\\u76ae\\u5c14\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x22d016dafcd5bbfd0a7856730a\x22,\x22title\x22:\x22\\u6bcf\\u5929\\u8fdb\\u6b65\\u4e00\\u70b9\\u70b9\\u5927\\u5168\\u96c6\x22,\x22author\x22:\x22\\u6c34\\u4e2d\\u9c7c;\\u5f20\\u6653\\u840d\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/0b7b02087bf40ad1812acd53552c11dfa8ecceb0.jpg\x22,\x22paper_price\x22:\x2229.00\x22,\x22price\x22:\x225.98\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u5317\\u4eac\\u91d1\\u77f3\\u6d77\\u7eb3\x22,\x22confirm_price\x22:\x22598\x22,\x22payprice\x22:\x22598\x22,\x22now_effective_activity\x22:\x220\x22,\x22activity_devices_list\x22:[],\x22abstract\x22:\x22\\u3000\\u3000\\u6bcf\\u5929\\u7684\\u4e00\\u70b9\\u70b9\\u8fdb\\u6b65\\uff0c\\u662f\\u94f8\\u5c31\\u4f60\\u4e8b\\u4e1a\\u6210\\u529f\\u5927\\u53a6\\u7684\\u57fa\\u77f3\\uff0c\\u662f\\u4f60\\u7acb\\u8eab\\u4e8e\\u4e16\\u754c\\u7684\\u57ab\\u811a\\u77f3\\uff0c\\u66f4\\u662f\\u4f60\\u4eba\\u751f\\u9053\\u8def\\u4e0a\\u7684\\u94fa\\u8def\\u77f3\\u3002\\u8fd9\\u4e00\\u70b9\\u70b9\\u7684\\u8fdb\\u6b65\\u91cc\\u9762\\uff0c\\u6709\\u6c57\\u6c34\\uff0c\\u4e5f\\u6709\\u638c\\u58f0\\uff0c\\u6709\\u6cea\\u6c34\\uff0c\\u4e5f\\u6709\\u9c9c\\u82b1\\u3002\\u300a\\u6bcf\\u5929\\u8fdb\\u6b65\\u4e00\\u70b9\\u70b9\\u5927\\u5168\\u96c6\\uff08\\u8d85\\u503c\\u91d1\\u7248\\uff09\\u300b\\u4ece\\u7acb\\u8eab\\u5904\\u4e16\\u3001\\u6210\\u529f\\u4e4b\\u8def\\u548c\\u5fc3\\u7406\\u6210\\u719f\\u4e09\\u65b9\\u9762\\u5c55\\u5f00\\u8bba\\u8ff0\\uff0c\\u5305\\u542b\\u4e86\\u505a\\u4eba\\u3001\\u505a\\u4e8b\\u3001\\u5904\\u4e16\\u3001\\u4ea4\\u53cb\\u3001\\u8bf4\\u8bdd\\u3001\\u4e60\\u60ef\\u7684\\u57f9\\u517b\\u3001\\u5fc3\\u7406\\u7684\\u8c03\\u8282\\u3001\\u5fc3\\u6001\\u7684\\u6539\\u53d8\\u7b49\\u7b49\\u5404\\u4e2a\\u5c42\\u9762\\uff0c\\u5185\\u5bb9\\u4e30\\u5bcc\\uff0c\\u6848\\u4f8b\\u8be6\\u5b9e\\u3002\\u65e0\\u8bba\\u4f60\\u662f\\u5904\\u4e8e\\u5b66\\u4e60\\u9636\\u6bb5\\u7684\\u5b66\\u751f\\uff0c\\u8fd8\\u662f\\u9a70\\u9a8b\\u804c\\u573a\\u7684\\u767d\\u9886\\uff0c\\u6216\\u8005\\u662f\\u8eab\\u5904\\u9ad8\\u5c42\\u7684\\u9886\\u5bfc\\uff0c\\u300a\\u6bcf\\u5929\\u8fdb\\u6b65\\u4e00\\u70b9\\u70b9\\u5927\\u5168\\u96c6\\uff08\\u8d85\\u503c\\u91d1\\u7248\\uff09\\u300b\\u90fd\\u5bf9\\u4f60\\u6709\\u5f88\\u5927\\u7684\\u5e2e\\u52a9\\u3002\\u6bcf\\u5929\\u8fdb\\u6b65\\u4e00\\u70b9\\u70b9\\uff0c\\u5c31\\u662f\\u2015\\u2015\\u62e5\\u6709\\u6c34\\u6ef4\\u77f3\\u7a7f\\u7684\\u575a\\u6301\\uff1b\\u61c2\\u5f97\\u805a\\u6c99\\u6210\\u5854\\u7684\\u79ef\\u7d2f\\uff1b\\u78e8\\u7ec3\\u575a\\u97e7\\u4e0d\\u62d4\\u7684\\u610f\\u5fd7\\uff1b\\u5b66\\u4e60\\u811a\\u8e0f\\u5b9e\\u5730\\u7684\\u594b\\u6597\\uff1b\\u63d0\\u5347\\u7acb\\u4e16\\u505a\\u4eba\\u7684\\u6280\\u5de7\\uff1b\\u7a81\\u7834\\u81ea\\u6211\\u8bbe\\u9650\\u7684\\u969c\\u788d\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x2285befcea28ea81c758f5787c\x22,\x22title\x22:\x22\\u6e29\\u5dde\\u4eba\\u8d5a\\u5927\\u94b1\\u6210\\u5927\\u4e8b\\u768416\\u6761\\u5546\\u89c4\x22,\x22author\x22:\x22\\u5b59\\u826f\\u73e0\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/8435e5dde71190ef30e1e56fcc1b9d16fdfa6063.jpg\x22,\x22paper_price\x22:\x2235.00\x22,\x22price\x22:\x221.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u5317\\u4eac\\u91d1\\u77f3\\u6d77\\u7eb3\x22,\x22confirm_price\x22:\x22100\x22,\x22payprice\x22:\x22598\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22100\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22100\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22100\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22100\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22100\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u72b9\\u592a\\u4eba\\u88ab\\u5c0a\\u79f0\\u4e3a\\u201c\\u6700\\u4f1f\\u5927\\u7684\\u5546\\u4eba\\u201d\\uff0c\\u800c\\u6e29\\u5dde\\u4eba\\u5219\\u88ab\\u516c\\u8ba4\\u4e3a\\u201c\\u4e1c\\u65b9\\u7684\\u72b9\\u592a\\u4eba\\u201d\\u4f46\\u5f53\\u6e29\\u5dde\\u4eba\\u62a2\\u6ee9\\u6b27\\u6d32\\u5927\\u9646\\u4ec5\\u4ec5\\u5341\\u51e0\\u5e74\\u540e\\uff0c\\u5374\\u5c06\\u771f\\u6b63\\u7684\\u72b9\\u592a\\u4eba\\u6253\\u5f97\\u4e00\\u8d25\\u6d82\\u5730\\u3001\\u843d\\u82b1\\u6d41\\u6c34\\uff0c\\u5176\\u7ecf\\u5546\\u7684\\u5929\\u624d\\u7531\\u6b64\\u9707\\u60ca\\u4e16\\u754c\\uff1a\\u4e16\\u754c\\u4e0a\\u8fd8\\u6709\\u6bd4\\u72b9\\u592a\\u4eba\\u66f4\\u4f1a\\u7ecf\\u5546\\u7684\\u4eba\\u7fa4\\uff01\\u6240\\u4ee5\\uff0c\\u6709\\u79cd\\u63d0\\u6cd5\\u8d8a\\u6765\\u8d8a\\u5f97\\u5230\\u4e16\\u754c\\u7684\\u516c\\u8ba4\\uff0c\\u5c31\\u662f\\u5e94\\u8be5\\u5c06\\u72b9\\u592a\\u4eba\\u79f0\\u4e3a\\u201c\\u6b27\\u6d32\\u7684\\u6e29\\u5dde\\u4eba\\u201d\\u624d\\u66f4\\u4e3a\\u51c6\\u786e\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x2218039db9c8d376eeaeaa317f\x22,\x22title\x22:\x22\\u8c0b\\u6743\\u4e4b\\u9053\x22,\x22author\x22:\x22\\u5ed6\\u5c0f\\u4e1c\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/0dd7912397dda144a92f3f17b0b7d0a20cf48674.jpg\x22,\x22paper_price\x22:\x2232.00\x22,\x22price\x22:\x225.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u5b89\\u5fbd\\u5929\\u82e5\\u6587\\u5316\x22,\x22confirm_price\x22:\x22500\x22,\x22payprice\x22:\x22640\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22500\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22500\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22500\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22500\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22500\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u5218\\u90a6\\uff1a\\u5927\\u9634\\u5927\\u9633\\uff0c\\u65e0\\u5f62\\u65e0\\u8272\\uff1b\\u6768\\u5e7f\\uff1a\\u91cd\\u91cd\\u8bbe\\u5c40\\uff0c\\u673a\\u5173\\u7b97\\u5c3d\\uff1b\\u674e\\u4e16\\u6c11\\uff1a\\u84c4\\u517b\\u5b9e\\u529b\\uff0c\\u53cd\\u51fb\\u5236\\u80dc\\uff1b\\u6731\\u5143\\u748b\\uff1a\\u521a\\u731b\\u6cbb\\u56fd\\uff0c\\u94c1\\u8155\\u6cbb\\u4eba\\uff1b\\u96cd\\u6b63\\uff1a\\u505a\\u4e8b\\u505a\\u7edd\\uff0c\\u4e0d\\u7559\\u540e\\u8def\\uff1b\\u6b66\\u5219\\u5929\\uff1a\\u4e89\\u72e0\\u6597\\u6076\\uff0c\\u6bd2\\u9738\\u5929\\u4e0b\\uff1b\\u8427\\u592a\\u540e\\uff1a\\u56fd\\u4e8b\\u4e3a\\u91cd\\uff0c\\u5927\\u67d4\\u81f3\\u521a\\uff1b\\u6148\\u79a7\\uff1a\\u4e00\\u62db\\u81f4\\u80dc\\uff0c\\u5782\\u5e18\\u542c\\u653f\\uff1b\\u674e\\u65af\\uff1a\\u4e3a\\u540d\\u4e3a\\u5229\\uff0c\\u5343\\u53e4\\u4e00\\u76f8\\uff1b\\u5218\\u4f2f\\u6e29\\uff1a\\u85cf\\u9732\\u4e4b\\u95f4\\uff0c\\u5929\\u673a\\u5927\\u5e08\\uff1b\\u5f20\\u5c45\\u6b63\\uff1a\\u521a\\u67d4\\u76f8\\u6d4e\\uff0c\\u4e2d\\u5174\\u4e4b\\u81e3\\uff1b\\u548c\\u73c5\\uff1a\\u9022\\u8fce\\u6709\\u672f\\uff0c\\u5e73\\u6b65\\u9752\\u4e91\\u3002\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x22678eb4060b4c2e3f572763c4\x22,\x22title\x22:\x22\\u5ac1\\u4eba\\u7684\\u8d44\\u672c\x22,\x22author\x22:\x22\\u9ec4\\u5fd7\\u575a\\u3001\\u66fe\\u6653\\u73b2\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/622762d0f703918f45f34f6f533d269759eec471.jpg\x22,\x22paper_price\x22:\x2228.00\x22,\x22price\x22:\x221.99\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22lsz2013year\x22,\x22confirm_price\x22:\x22199\x22,\x22payprice\x22:\x22560\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22199\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u6bcf\\u4e2a\\u5973\\u5b69\\u5b50\\u90fd\\u60f3\\u5ac1\\u5f97\\u597d\\u4e00\\u4e9b\\uff0c\\u8fd9\\u662f\\u5929\\u7ecf\\u5730\\u4e49\\u7684\\u4e8b\\u3002\\u6bd5\\u7adf\\u5a5a\\u59fb\\u5bf9\\u4e8e\\u4e00\\u4e2a\\u5973\\u4eba\\u6765\\u8bf4\\u662f\\u81f3\\u5173\\u91cd\\u8981\\u7684\\uff0c\\u662f\\u5973\\u4eba\\u7684\\u7b2c\\u4e8c\\u751f\\u547d\\uff0c\\u5ac1\\u5f97\\u597d\\uff0c\\u624d\\u6709\\u53ef\\u80fd\\u6d3b\\u5f97\\u66f4\\u7cbe\\u5f69\\u3002 \\n\\u3000\\u3000\\u8d44\\u672c\\uff0c\\u53ef\\u4ee5\\u8bf4\\u662f21\\u4e16\\u7eaa\\u6700\\u9891\\u7e41\\u51fa\\u73b0\\u7684\\u5173\\u952e\\u8bcd\\u4e4b\\u4e00\\u3002\\u751f\\u610f\\u4e2d\\uff0c\\u62e5\\u6709\\u8d44\\u672c\\uff0c\\u5c0f\\u751f\\u610f\\u53ef\\u4ee5\\u53d8\\u6210\\u5927\\u751f\\u610f\\uff1b\\u4f01\\u4e1a\\u4e2d\\uff0c\\u62e5\\u6709\\u8d44\\u672c\\uff0c\\u5c0f\\u516c\\u53f8\\u53ef\\u4ee5\\u8fd0\\u4f5c\\u6210\\u5927\\u516c\\u53f8\\uff1b\\u804c\\u573a\\u4e2d\\uff0c\\u62e5\\u6709\\u8db3\\u591f\\u7684\\u8d44\\u672c\\uff0c\\u4f60\\u53ef\\u4ee5\\u4ece\\u4e00\\u6587\\u4e0d\\u540d\\u5230\\u626c\\u540d\\u7acb\\u4e07\\u3002\\u5973\\u4eba\\u5728\\u5ac1\\u4eba\\u8fd9\\u4ef6\\u5927\\u4e8b\\u4e0a\\uff0c\\u4e5f\\u662f\\u5982\\u6b64\\uff0c\\u5982\\u679c\\u4f60\\u62e5\\u6709\\u6bd4\\u522b\\u7684\\u5973\\u4eba\\u66f4\\u591a\\u7684\\u8d44\\u672c\\uff0c\\u4f60\\u7684\\u5a5a\\u59fb\\u5c31\\u4f1a\\u6709\\u66f4\\u591a\\u7684\\u5e78\\u798f\\u4fdd\\u969c\\u3002\\u90a3\\u4e48\\uff0c\\u4ece\\u73b0\\u5728\\u5f00\\u59cb\\uff0c\\u4e0d\\u65ad\\u589e\\u52a0\\u81ea\\u5df1\\u5ac1\\u4eba\\u7684\\u8d44\\u672c\\uff0c\\u52aa\\u529b\\u505a\\u4e2a\\u6709\\u8d44\\u672c\\u7684\\u5973\\u4eba\\u5427\\uff01 \x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x223b68aa7c6edb6f1aff001fcd\x22,\x22title\x22:\x2230\\u5c81\\u8d5a\\u5343\\u4e07\x22,\x22author\x22:\x22\\u738b\\u4fdd\\u8605\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/54fbb2fb43166d221df8c32c452309f79152d2ff.jpg\x22,\x22paper_price\x22:\x2232.00\x22,\x22price\x22:\x222.99\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u65b0\\u534e\\u6587\\u8f69\\u7535\\u5b50\\u4e66\x22,\x22confirm_price\x22:\x22299\x22,\x22payprice\x22:\x22300\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22299\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22299\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22299\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22299\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22299\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u73b0\\u4ee3\\u793e\\u4f1a\\uff0c\\u7ecf\\u6d4e\\u5f97\\u5230\\u4e86\\u5f88\\u5927\\u7684\\u53d1\\u5c55\\uff0c\\u8d22\\u5bcc\\u5728\\u751f\\u6d3b\\u4e2d\\u7684\\u89d2\\u8272\\u8d8a\\u6765\\u8d8a\\u91cd\\u8981\\uff0c\\u8fd9\\u5c31\\u8981\\u6c42\\u6bcf\\u4e2a\\u4eba\\u90fd\\u8981\\u5177\\u5907\\u521b\\u9020\\u8d22\\u5bcc\\u7684\\u80fd\\u529b\\u3002\\u56e0\\u6b64\\uff0c\\u5e74\\u8f7b\\u4eba\\u90fd\\u5728\\u60f3\\u65b9\\u8bbe\\u6cd5\\u5730\\u8d5a\\u53d6\\u8d22\\u5bcc\\u3002\\u7136\\u800c\\uff0c\\u6709\\u7684\\u4eba\\u6210\\u529f\\u8d5a\\u53d6\\u5343\\u4e07\\uff0c\\u6709\\u7684\\u4eba\\u5374\\u4e00\\u4e8b\\u65e0\\u6210\\uff0c\\u4ed6\\u4eec\\u4e4b\\u95f4\\u5230\\u5e95\\u5dee\\u8ddd\\u5728\\u54ea\\u91cc\\u5462\\uff1f\\u8d22\\u5bcc\\u7684\\u771f\\u76f8\\u5230\\u5e95\\u662f\\u4ec0\\u4e48\\u5462\\uff1f\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x22d5cb567c7cd184254a35354b\x22,\x22title\x22:\x22\\u6bcf\\u5929\\u4e00\\u5802\\u60c5\\u5546\\u8bfe\x22,\x22author\x22:\x22\\u77f3\\u82e5\\u5764\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/21a4462309f7905258ed08a10ff3d7ca7acbd5bb.jpg\x22,\x22paper_price\x22:\x2232.79\x22,\x22price\x22:\x223.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u60a0\\u60a0\\u60a6999\x22,\x22confirm_price\x22:\x22300\x22,\x22payprice\x22:\x22300\x22,\x22now_effective_activity\x22:\x220\x22,\x22activity_devices_list\x22:[],\x22abstract\x22:\x22\\u3000\\u3000\\u60c5\\u5546\\u662f\\u5f71\\u54cd\\u4e2a\\u4eba\\u5065\\u5eb7\\u3001\\u60c5\\u611f\\u3001\\u4eba\\u9645\\u5173\\u7cfb\\u4ee5\\u53ca\\u6210\\u529f\\u7684\\u91cd\\u8981\\u56e0\\u7d20\\uff0c\\u662f\\u51b3\\u5b9a\\u4e2a\\u4eba\\u547d\\u8fd0\\u7684\\u5173\\u952e\\u6761\\u4ef6\\u3002\\u53e4\\u5f80\\u4eca\\u6765\\uff0c\\u5e76\\u4e0d\\u662f\\u6240\\u6709\\u9ad8\\u667a\\u5546\\u7684\\u4eba\\u90fd\\u662f\\u6210\\u529f\\u8005\\uff0c\\u6216\\u8bb8\\u8eab\\u8fb9\\u4e00\\u4e2a\\u4e0d\\u8d77\\u773c\\u7684\\u5c0f\\u4eba\\u7269\\uff0c\\u4ee5\\u540e\\u4e5f\\u4f1a\\u53d8\\u6210\\u95ea\\u8000\\u7684\\u660e\\u661f\\uff0c\\u56e0\\u4e3a\\u4ed6\\u5177\\u6709\\u9ad8\\u60c5\\u5546\\u3002\\u73b0\\u5728\\u5fc3\\u7406\\u5b66\\u5bb6\\u4eec\\u666e\\u904d\\u8ba4\\u4e3a\\uff0c\\u60c5\\u5546\\u6c34\\u5e73\\u7684\\u9ad8\\u4f4e\\u5bf9\\u4e00\\u4e2a\\u4eba\\u80fd\\u5426\\u53d6\\u5f97\\u6210\\u529f\\u6709\\u7740\\u91cd\\u5927\\u7684\\u4f5c\\u7528\\uff0c\\u6709\\u65f6\\u5176\\u4f5c\\u7528\\u751a\\u81f3\\u8981\\u8d85\\u8fc7\\u667a\\u529b\\u6c34\\u5e73\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x22203941b00c22590102029da8\x22,\x22title\x22:\x22\\u5386\\u53f2\\u7684\\u8be1\\u8ba1\x22,\x22author\x22:\x22\\u9f9a\\u5b87\\u534e\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/37d12f2eb9389b508ada6e6e8135e5dde7116ee1.jpg\x22,\x22paper_price\x22:\x2239.90\x22,\x22price\x22:\x223.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x221\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u65b0\\u534e\\u6587\\u8f69\\u7535\\u5b50\\u4e66\x22,\x22confirm_price\x22:\x22300\x22,\x22payprice\x22:\x221197\x22,\x22now_effective_activity\x22:\x225\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22300\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22300\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22300\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22300\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22300\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u6211\\u56fd\\u7684\\u60a0\\u4e45\\u5386\\u53f2\\u7ef5\\u5ef6\\u4e86\\u51e0\\u5343\\u5e74\\uff0c\\u5728\\u5176\\u6f2b\\u6f2b\\u7684\\u5386\\u53f2\\u957f\\u6cb3\\u4e2d\\uff0c\\u4e00\\u51fa\\u51fa\\u7cbe\\u5f69\\u7edd\\u4f26\\u3001\\u4ee4\\u4eba\\u62cd\\u6848\\u53eb\\u7edd\\u7684\\u8be1\\u8ba1\\u8f6e\\u756a\\u4e0a\\u6f14\\u3002\\u53e4\\u4ee3\\u5148\\u6c11\\u4eec\\u901a\\u8fc7\\u5b66\\u4e60\\u5386\\u53f2\\u4e0a\\u5386\\u6b21\\u6597\\u4e89\\u7684\\u7ecf\\u9a8c\\uff0c\\u603b\\u7ed3\\u51fa\\u4e86\\u8bb8\\u591a\\u6781\\u4e3a\\u91cd\\u8981\\u7684\\u8c0b\\u7565\\u601d\\u60f3\\u3002\\u5728\\u5148\\u79e6\\u65f6\\u671f\\uff0c\\u4eba\\u4eec\\u5df2\\u7ecf\\u603b\\u7ed3\\u51fa\\u201c\\u97ec\\u7565\\u201d\\u3001\\u201c\\u8be1\\u9053\\u201d\\uff0c\\u5e76\\u5e94\\u7528\\u4e8e\\u5404\\u8bf8\\u4faf\\u56fd\\u95f4\\u7684\\u653f\\u6cbb\\u519b\\u4e8b\\u6597\\u4e89\\u4e2d\\u3002\\u540e\\u6765\\u8c0b\\u7565\\u548c\\u519b\\u4e8b\\u601d\\u60f3\\u7ed3\\u5408\\u5f62\\u6210\\u5404\\u79cd\\u5175\\u6cd5\\uff0c\\u5e76\\u6700\\u7ec8\\u88ab\\u63d0\\u70bc\\u6210\\u8457\\u540d\\u7684\\u4e09\\u5341\\u516d\\u8ba1\\uff0c\\u6d41\\u4f20\\u4e45\\u8fdc\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x22f12c87f1ec3a87c24028c493\x22,\x22title\x22:\x22\\u6d3b\\u5b66\\u6d3b\\u7528\\u535a\\u5f08\\u8bba\x22,\x22author\x22:\x22[\\u7f8e]\\u8a79\\u59c6\\u65afD\\u30fb\\u7c73\\u52d2\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/6159252dd42a2834105d28275fb5c9ea15cebf26.jpg\x22,\x22paper_price\x22:\x2239.79\x22,\x22price\x22:\x2218.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u534e\\u7ae0\\u6570\\u5a92\x22,\x22confirm_price\x22:\x221800\x22,\x22payprice\x22:\x221800\x22,\x22now_effective_activity\x22:\x220\x22,\x22activity_devices_list\x22:[],\x22abstract\x22:\x22\\u3000\\u3000\\u4eba\\u751f\\u3001\\u5546\\u4e1a\\u7ecf\\u8425\\u3001\\u804c\\u573a\\u7531\\u4e00\\u573a\\u53c8\\u4e00\\u573a\\u7684\\u535a\\u5f08\\u7ec4\\u6210\\uff0c\\u6bcf\\u573a\\u535a\\u5f08\\u90fd\\u5305\\u62ec\\u535a\\u5f08\\u5404\\u65b9\\u3001\\u535a\\u5f08\\u5404\\u65b9\\u53ef\\u4ee5\\u91c7\\u53d6\\u7684\\u884c\\u52a8\\u3001\\u535a\\u5f08\\u5404\\u65b9\\u53ef\\u80fd\\u5f97\\u5230\\u7684\\u597d\\u5904\\u3002\\u800c\\u4f60\\u6211\\u90fd\\u5728\\u4e89\\u53d6\\u535a\\u5f08\\u7684\\u6700\\u5927\\u597d\\u5904\\u3002\\u6709\\u7684\\u4eba\\u4e3a\\u4e86\\u4e89\\u53d6\\u52a0\\u85aa\\uff0c\\u6709\\u7684\\u4eba\\u5219\\u4e3a\\u4e86\\u786e\\u4fdd\\u5458\\u5de5\\u80fd\\u5168\\u529b\\u4ee5\\u8d74\\uff1b\\u6709\\u65f6\\u5019\\uff0c\\u6211\\u4eec\\u80fd\\u638c\\u63e1\\u4e00\\u5207\\uff0c\\u4f46\\u6709\\u65f6\\uff0c\\u5219\\u5fc5\\u987b\\u731c\\u6d4b\\u522b\\u4eba\\u77e5\\u9053\\u54ea\\u4e9b\\u6211\\u4eec\\u4e0d\\u77e5\\u9053\\u7684\\u4e8b\\uff1b\\u5076\\u5c14\\u7ade\\u4e89\\u5bf9\\u624b\\u95f4\\u5fc5\\u987b\\u5408\\u4f5c\\u624d\\u80fd\\u591f\\u5171\\u5b58\\uff0c\\u4f46\\u5728\\u8d62\\u5bb6\\u901a\\u5403\\u7684\\u60c5\\u51b5\\u4e0b\\uff0c\\u5408\\u4f5c\\u5219\\u662f\\u4e0d\\u53ef\\u80fd\\u7684\\u4e8b\\u60c5\\u3002\\u5728\\u535a\\u5f08\\u7684\\u4e16\\u754c\\u91cc\\uff0c\\u5927\\u591a\\u6570\\u4eba\\u53ea\\u5173\\u5fc3\\u81ea\\u5df1\\u3002\\u6240\\u4ee5\\uff0c\\u5982\\u679c\\u4f60\\u52a0\\u85aa\\u7684\\u524d\\u63d0\\u662f\\u57fa\\u4e8e\\u8fd9\\u5bf9\\u8001\\u677f\\u662f\\u4e00\\u79cd\\u201c\\u5584\\u884c\\u201d\\uff0c\\u8001\\u677f\\u7edd\\u5bf9\\u4e0d\\u4f1a\\u5e2e\\u4f60\\u52a0\\u85aa\\u3002\\u53ea\\u6709\\u8ba9\\u8001\\u677f\\u76f8\\u4fe1\\uff0c\\u7ed9\\u4f60\\u66f4\\u591a\\u7684\\u94b1\\u5bf9\\u4ed6\\u6709\\u597d\\u5904\\uff0c\\u4f60\\u624d\\u52a0\\u5f97\\u4e86\\u85aa\\u3002\\r\\n\\u3000\\u3000\\u300a\\u6d3b\\u5b66\\u6d3b\\u7528\\u535a\\u5f08\\u8bba\\u300b\\u63a2\\u8ba8\\u7684\\u5c31\\u662f\\u806a\\u660e\\u53c8\\u81ea\\u5229\\u7684\\u4eba\\u5982\\u4f55\\u5728\\u535a\\u5f08\\u4e2d\\u91c7\\u53d6\\u884c\\u52a8\\u3001\\u4e0e\\u5bf9\\u624b\\u4e92\\u52a8\\uff0c\\u5e76\\u6559\\u4f60\\u7834\\u89e3\\u79cd\\u79cd\\u96be\\u9898\\u7684\\u65b9\\u6cd5\\u3002\\u7531\\u4e8e\\u5546\\u4e1a\\u4eba\\u58eb\\u6240\\u53c2\\u4e0e\\u7684\\u535a\\u5f08\\u65e2\\u590d\\u6742\\u53c8\\u591a\\u53d8\\uff0c\\u672c\\u4e66\\u63d0\\u4f9b\\u4e86\\u5fc5\\u8981\\u7684\\u5de5\\u5177\\uff0c\\u4f9b\\u8bfb\\u8005\\u5206\\u8fa8\\u81ea\\u5df1\\u6240\\u53c2\\u4e0e\\u7684\\u662f\\u54ea\\u79cd\\u535a\\u5f08\\u3002\\u66f4\\u91cd\\u8981\\u7684\\u662f\\uff0c\\u8ba9\\u8bfb\\u8005\\u5728\\u6240\\u53c2\\u4e0e\\u7684\\u535a\\u5f08\\u4e2d\\u5f97\\u5230\\u6700\\u5927\\u7684\\u597d\\u5904\\uff0c\\u8d85\\u8d8a\\u516c\\u53f8\\u5185\\u5916\\u7684\\u7ade\\u4e89\\u5bf9\\u624b\\uff0c\\u6216\\u8005\\u8d77\\u7801\\u80fd\\u5e76\\u9a7e\\u9f50\\u9a71\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x227facb70f31b765ce04081436\x22,\x22title\x22:\x22\\u6d1b\\u514b\\u83f2\\u52d2\\u7ed9\\u5b50\\u5973\\u7684\\u4e00\\u751f\\u5fe0\\u544a\x22,\x22author\x22:\x22[\\u7f8e]\\u6d1b\\u514b\\u83f2\\u52d2\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/8718367adab44aede3a2b59cb71c8701a08bfbde.jpg\x22,\x22paper_price\x22:\x2232.00\x22,\x22price\x22:\x221.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u65b0\\u534e\\u6587\\u8f69\\u7535\\u5b50\\u4e66\x22,\x22confirm_price\x22:\x22100\x22,\x22payprice\x22:\x22500\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22100\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22100\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22100\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22100\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22100\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u300a\\u798f\\u5e03\\u65af\\u300b\\u6742\\u5fd7\\u4e8e2007\\u5e74\\u8bc4\\u4f30\\u6d1b\\u514b\\u83f2\\u52d2\\u7684\\u4e2a\\u4eba\\u8d44\\u4ea7\\u662f3053\\u4ebf\\u7f8e\\u5143\\uff0c\\u6392\\u540d\\u4e16\\u754c\\u7b2c\\u4e00\\u3002\\u800c\\u6bd4\\u5c14\\u30fb\\u76d6\\u8328\\u7684\\u8d44\\u4ea7\\u662f530\\u4ebf\\u7f8e\\u5143\\uff0c\\u4ec5\\u540d\\u5217\\u4e16\\u754c\\u7b2c13\\u4f4d\\u3002\\u7ea6\\u7ff0\\u30fbD\\u30fb\\u6d1b\\u514b\\u83f2\\u52d2\\u662f\\u7f8e\\u56fd\\u7b2c\\u4e00\\u5bb6\\u5de5\\u4e1a\\u6258\\u62c9\\u65af\\u4f01\\u4e1a\\u7684\\u521b\\u5efa\\u8005\\uff0c\\u5168\\u7403\\u6700\\u4f1f\\u5927\\u7684\\u6148\\u5584\\u5bb6\\u548c\\u73b0\\u4ee3\\u6148\\u5584\\u4e1a\\u6700\\u5927\\u7684\\u7ec4\\u7ec7\\u8005\\u3002\\u4ed6\\u6210\\u529f\\u5730\\u9020\\u5c31\\u4e86\\u7f8e\\u56fd\\u5386\\u53f2\\u4e0a\\u4e00\\u4e2a\\u72ec\\u7279\\u7684\\u65f6\\u4ee3\\uff0c\\u88ab\\u8a89\\u4e3a\\u201c\\u7aa5\\u89c1\\u4e0a\\u5e1d\\u79d8\\u5bc6\\u7684\\u4eba\\u201d\\u3002\\u300a\\u6d1b\\u514b\\u83f2\\u52d2\\u7ed9\\u5b50\\u5973\\u7684\\u4e00\\u751f\\u5fe0\\u544a\\u300b\\u771f\\u5b9e\\u8bb0\\u5f55\\u4e86\\u6d1b\\u514b\\u83f2\\u52d2\\u521b\\u9020\\u8d22\\u5bcc\\u795e\\u8bdd\\u7684\\u79cd\\u79cd\\u4e1a\\u7ee9\\uff0c\\u4ece\\u4e2d\\u6211\\u4eec\\u53ef\\u4ee5\\u5b66\\u5230\\u5f88\\u591a\\u5546\\u4e1a\\u65b9\\u9762\\u7684\\u667a\\u6167\\u3002\\u6211\\u76f8\\u4fe1\\uff0c\\u73b0\\u4ee3\\u8bb8\\u591a\\u5546\\u4e1a\\u7c7b\\u4e66\\u7c4d\\u7684\\u5f88\\u591a\\u89c2\\u70b9\\u90fd\\u51fa\\u81ea\\u8fd9\\u91cc\\uff0c\\u53ea\\u662f\\u5f62\\u5f0f\\u4e0a\\u4e0d\\u540c\\u800c\\u5df2\\u3002\\u9605\\u8bfb\\u300a\\u6d1b\\u514b\\u83f2\\u52d2\\u7ed9\\u5b50\\u5973\\u7684\\u4e00\\u751f\\u5fe0\\u544a\\u300b\\uff0c\\u4f60\\u8fd8\\u53ef\\u4ee5\\u5b66\\u5230\\u6d1b\\u514b\\u83f2\\u52d2\\u7684\\u5904\\u4e16\\u54f2\\u5b66\\u3002\\u76f8\\u4fe1\\u8fd9\\u4f4d\\u5728\\u4e1698\\u5e74\\u7684\\u5546\\u4e1a\\u5de8\\u4eba\\uff0c\\u80af\\u5b9a\\u6709\\u7740\\u522b\\u4eba\\u6240\\u4e0d\\u53ef\\u66ff\\u4ee3\\u7684\\u5904\\u4e16\\u601d\\u60f3\\u4e0e\\u667a\\u6167\\u3002\\u5982\\u6b64\\uff0c\\u5373\\u4f7f\\u628a\\u6b64\\u4e66\\u770b\\u505a\\u6210\\u5c31\\u8d22\\u5bcc\\u4eba\\u751f\\u7684\\u5723\\u7ecf\\u4e5f\\u4e0d\\u4e3a\\u8fc7\\u3002\\u5b83\\u5c06\\u5411\\u4f60\\u5c55\\u793a\\u4e00\\u4f4d\\u5546\\u4e1a\\u5de8\\u5b50\\u5982\\u4f55\\u4ece\\u65e0\\u5230\\u6709\\u521b\\u9020\\u8d22\\u5bcc\\uff0c\\u53c8\\u5982\\u4f55\\u6293\\u4f4f\\u6bcf\\u4e00\\u5206\\u94b1\\u6765\\u8d5a\\u53d6\\u66f4\\u591a\\u7684\\u8d22\\u5bcc\\u7684\\u3002\\r\\n\\u3000\\u3000\\u300a\\u6d1b\\u514b\\u83f2\\u52d2\\u7ed9\\u5b50\\u5973\\u7684\\u4e00\\u751f\\u5fe0\\u544a\\u300b\\u662f\\u4e16\\u754c\\u77f3\\u6cb9\\u5927\\u4ea8\\u6d1b\\u514b\\u83f2\\u52d2\\u4e00\\u751f\\u7684\\u601d\\u60f3\\u7cbe\\u534e\\uff0c\\u4e0d\\u4ec5\\u9971\\u542b\\u4e86\\u7236\\u4eb2\\u5bf9\\u5b69\\u5b50\\u4eec\\u7684\\u7231\\uff0c\\u6e17\\u900f\\u7740\\u4e00\\u4f4d\\u7236\\u4eb2\\u5bf9\\u5b69\\u5b50\\u4e0d\\u65ad\\u8ffd\\u6c42\\u4e0a\\u8fdb\\u7684\\u6bb7\\u5207\\u5e0c\\u671b\\uff0c\\u8fd8\\u5904\\u5904\\u95ea\\u70c1\\u7740\\u4e00\\u4f4d\\u5546\\u754c\\u8d85\\u7ea7\\u6210\\u529f\\u4eba\\u58eb\\u7684\\u8d22\\u5546\\u667a\\u6167\\u548c\\u7ba1\\u7406\\u624d\\u534e\\u3002\\u300a\\u6d1b\\u514b\\u83f2\\u52d2\\u7ed9\\u5b50\\u5973\\u7684\\u4e00\\u751f\\u5fe0\\u544a\\u300b\\u4e0d\\u4ec5\\u4ee5\\u6d1b\\u514b\\u83f2\\u52d2\\u5199\\u7ed9\\u5b69\\u5b50\\u7684\\u4fe1\\u4e3a\\u89c6\\u89d2\\uff0c\\u66f4\\u901a\\u8fc7\\u5c55\\u73b0\\u6d1b\\u514b\\u83f2\\u52d2\\u7684\\u751f\\u6d3b\\u60c5\\u666f\\u7684\\u65b9\\u5f0f\\uff0c\\u63d0\\u51fa\\u4e8667\\u4e2a\\u5fe0\\u544a\\u3002\\u8fd9\\u4e9b\\u5fe0\\u544a\\uff0c\\u90fd\\u662f\\u6d1b\\u514b\\u83f2\\u52d2\\u4ece\\u4e2a\\u4eba\\u7684\\u4eb2\\u8eab\\u7ecf\\u5386\\u4e2d\\u603b\\u7ed3\\u51fa\\u6765\\u5b9d\\u8d35\\u4eba\\u751f\\u8d22\\u5bcc\\u3002\\u5b83\\u5c06\\u5e2e\\u52a9\\u8ffd\\u6c42\\u6210\\u529f\\u7684\\u4eba\\u58eb\\u627e\\u5230\\u81ea\\u5df1\\u7684\\u4eba\\u751f\\u65b9\\u5411\\uff0c\\u521b\\u9020\\u8f89\\u714c\\u7684\\u672a\\u6765\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x2238535913b84ae45c3b358cc4\x22,\x22title\x22:\x22\\u5361\\u8010\\u57fa\\u53e3\\u624d\\u5b66\x22,\x22author\x22:\x22[\\u7f8e]\\u5361\\u8010\\u57fa\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/5366d0160924ab183cb1e4f731fae6cd7a890b4e.jpg\x22,\x22paper_price\x22:\x2212.00\x22,\x22price\x22:\x222.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u65b0\\u534e\\u6587\\u8f69\\u7535\\u5b50\\u4e66\x22,\x22confirm_price\x22:\x22200\x22,\x22payprice\x22:\x22300\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22200\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22200\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22200\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22200\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22200\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u300020\\u4e16\\u7eaa\\u521d\\u671f\\uff0c\\u7f8e\\u56fd\\u7ecf\\u6d4e\\u5927\\u8427\\u6761\\uff0c\\u6218\\u4e89\\u548c\\u8d2b\\u56f0\\u5bfc\\u81f4\\u4eba\\u4eec\\u5bf9\\u7f8e\\u597d\\u751f\\u6d3b\\u4e27\\u5931\\u4fe1\\u5fc3\\u3002\\u5361\\u8010\\u57fa\\u5728\\u6b64\\u65f6\\u5f00\\u521b\\u4e86\\u4e00\\u5957\\u878d\\u4e3a\\u4eba\\u5904\\u4e16\\u3001\\u6f14\\u8bb2\\u3001\\u63a8\\u9500\\u3001\\u667a\\u80fd\\u5f00\\u53d1\\u4e8e\\u4e00\\u4f53\\u7684\\u6559\\u80b2\\u65b9\\u5f0f\\uff0c\\u53ef\\u8c13\\u72ec\\u8f9f\\u8e4a\\u5f84\\u3002\\u63a5\\u53d7\\u5361\\u8010\\u57fa\\u6559\\u80b2\\u7684\\u6709\\u793e\\u4f1a\\u5404\\u754c\\u4eba\\u58eb\\uff0c\\u5176\\u4e2d\\u4e0d\\u4e4f\\u519b\\u653f\\u8981\\u5458\\u3002\\u5361\\u8010\\u57fa\\u7684\\u7cbe\\u795e\\u548c\\u601d\\u60f3\\uff0c\\u5c31\\u6210\\u4e86\\u4eba\\u4eec\\u8d70\\u51fa\\u8ff7\\u832b\\u548c\\u56f0\\u987f\\u7684\\u6700\\u6709\\u529b\\u7684\\u652f\\u6491\\uff0c\\u5343\\u5343\\u4e07\\u4e07\\u4eba\\u4ece\\u5361\\u8010\\u57fa\\u7684\\u6559\\u80b2\\u4e2d\\u83b7\\u76ca\\u532a\\u6d45\\u3002\\u300a\\u5361\\u8010\\u57fa\\u53e3\\u624d\\u5b66\\u300b\\u4f5c\\u8005\\u9648\\u7559\\u4e0d\\u4ec5\\u8be6\\u7ec6\\u4ecb\\u7ecd\\u4e86\\u5361\\u8010\\u57fa\\u6f14\\u8bb2\\u53e3\\u624d\\u7684\\u65b9\\u6cd5\\u548c\\u6280\\u5de7\\uff0c\\u800c\\u4e14\\u6839\\u636e\\u5927\\u91cf\\u8d44\\u6599\\uff0c\\u300a\\u5361\\u8010\\u57fa\\u53e3\\u624d\\u5b66\\u300b\\u5168\\u9762\\u4ecb\\u7ecd\\u4e86\\u5361\\u8010\\u57fa\\u53e3\\u624d\\u827a\\u672f\\u5728\\u5546\\u4e1a\\u548c\\u8d38\\u6613\\u8c08\\u5224\\u65b9\\u9762\\u7684\\u5e94\\u7528\\uff0c\\u5177\\u6709\\u5f88\\u5f3a\\u7684\\u53ef\\u64cd\\u4f5c\\u6027\\uff0c\\u80fd\\u591f\\u7ed9\\u8bfb\\u8005\\u5e26\\u6765\\u6307\\u5bfc\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x2259f44185aeaad1f346933f97\x22,\x22title\x22:\x22C\\u8bed\\u8a00\\u8fdb\\u9636\\uff1a\\u91cd\\u70b9\\u3001\\u96be\\u70b9\\u4e0e\\u7591\\u70b9\\u89e3\\u6790\x22,\x22author\x22:\x22\\u725f\\u6d77\\u519b\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/cc11728b4710b912b32e89bac0fdfc0393452282.jpg\x22,\x22paper_price\x22:\x2259.00\x22,\x22price\x22:\x2225.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u534e\\u7ae0\\u6570\\u5a92\x22,\x22confirm_price\x22:\x222500\x22,\x22payprice\x22:\x223800\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x222500\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x222500\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x222500\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x222500\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x222500\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000C\\u8bed\\u8a00\\u662f\\u7f16\\u7a0b\\u8bed\\u8a00\\u4e2d\\u7684\\u4e00\\u6735\\u5947\\u8469\\uff0c\\u867d\\u5df2\\u5782\\u5782\\u8001\\u77e3\\uff0c\\u4f46\\u5374\\u5c79\\u7acb\\u4e0d\\u5012\\uff0c\\u8bde\\u751f\\u4e86\\u6570\\u5341\\u5e74\\uff0c\\u4ecd\\u7136\\u662f\\u6700\\u6d41\\u884c\\u7684\\u7f16\\u7a0b\\u8bed\\u8a00\\u4e4b\\u4e00\\u3002C\\u8bed\\u8a00\\u770b\\u4f3c\\u7b80\\u5355\\uff0c\\u5374\\u4e0d\\u6613\\u5403\\u900f\\uff0c\\u60f3\\u8981\\u8fd0\\u7528\\u597d\\uff0c\\u66f4\\u662f\\u9700\\u8981\\u79ef\\u6dc0\\u3002\\u672c\\u4e66\\u662f\\u4e00\\u672c\\u4fee\\u70bcC\\u7a0b\\u5e8f\\u8bbe\\u8ba1\\u80fd\\u529b\\u7684\\u8fdb\\u9636\\u4e4b\\u4f5c\\uff0c\\u5b83\\u6ca1\\u6709\\u7cfb\\u7edf\\u5730\\u53bb\\u8bb2\\u89e3C\\u8bed\\u8a00\\u7684\\u8bed\\u6cd5\\u548c\\u7f16\\u7a0b\\u65b9\\u6cd5\\uff0c\\u800c\\u662f\\u53ea\\u5bf9C\\u8bed\\u8a00\\u4e2d\\u4e0d\\u5bb9\\u6613\\u88ab\\u521d\\u5b66\\u8005\\u7406\\u89e3\\u7684\\u91cd\\u70b9\\u3001\\u96be\\u70b9\\u548c\\u7591\\u70b9\\u8fdb\\u884c\\u4e86\\u7ec6\\u81f4\\u800c\\u6df1\\u5165\\u7684\\u89e3\\u8bfb\\uff0c\\u540c\\u65f6\\u5305\\u542b\\u5927\\u91cf\\u6280\\u5de7\\u548c\\u6700\\u4f73\\u5b9e\\u8df5\\uff0c\\u63ed\\u9732\\u4e86C\\u8bed\\u8a00\\u4e2d\\u90a3\\u4e9b\\u9c9c\\u4e3a\\u666e\\u901a\\u5f00\\u53d1\\u8005\\u6240\\u77e5\\u7684\\u79d8\\u5bc6\\uff0c\\u65e8\\u5728\\u8ba9\\u8bfb\\u8005\\u771f\\u6b63\\u638c\\u63e1C\\u8bed\\u8a00\\uff0c\\u4ece\\u800c\\u7f16\\u5199\\u51fa\\u66f4\\u9ad8\\u8d28\\u91cf\\u7684C\\u7a0b\\u5e8f\\u4ee3\\u7801\\u3002\\n\\u3000\\u3000\\u300aC\\u8bed\\u8a00\\u8fdb\\u9636\\uff1a\\u91cd\\u70b9\\u3001\\u96be\\u70b9\\u4e0e\\u7591\\u70b9\\u89e3\\u6790\\u300b\\u517111\\u7ae0\\uff1a\\u7b2c1\\u7ae0\\u91cd\\u70b9\\u9610\\u8ff0\\u4e86C\\u8bed\\u8a00\\u4e2d\\u4e0d\\u6613\\u88ab\\u7406\\u89e3\\u7684\\u591a\\u4e2a\\u6838\\u5fc3\\u6982\\u5ff5\\uff0c\\u5f88\\u591a\\u521d\\u5b66\\u8005\\u5728\\u7406\\u89e3\\u8fd9\\u4e9b\\u6982\\u5ff5\\u65f6\\u90fd\\u4f1a\\u5b58\\u5728\\u8bef\\u533a\\uff1b\\u7b2c2-8\\u7ae0\\u5bf9\\u9884\\u5904\\u7406\\u3001\\u9009\\u62e9\\u7ed3\\u6784\\u548c\\u5faa\\u73af\\u7ed3\\u6784\\u7684\\u7a0b\\u5e8f\\u8bbe\\u8ba1\\u3001\\u6570\\u7ec4\\u3001\\u6307\\u9488\\u3001\\u6570\\u636e\\u7ed3\\u6784\\u3001\\u51fd\\u6570\\u548c\\u6587\\u4ef6\\u7b49\\u77e5\\u8bc6\\u70b9\\u7684\\u6838\\u5fc3\\u95ee\\u9898\\u548c\\u6ce8\\u610f\\u4e8b\\u9879\\u8fdb\\u884c\\u4e86\\u8bb2\\u89e3\\uff1b\\u7b2c9\\u7ae0\\u4ecb\\u7ecd\\u4e86\\u8c03\\u8bd5\\u548c\\u5f02\\u5e38\\u5904\\u7406\\u7684\\u65b9\\u6cd5\\u53ca\\u6ce8\\u610f\\u4e8b\\u9879\\uff1b\\u7b2c10\\u7ae0\\u5bf9C\\u8bed\\u8a00\\u4e2d\\u7684\\u82e5\\u5e72\\u5bb9\\u6613\\u8ba9\\u5f00\\u53d1\\u8005\\u8bef\\u89e3\\u8bef\\u7528\\u7684\\u9677\\u9631\\u77e5\\u8bc6\\u70b9\\u8fdb\\u884c\\u4e86\\u5256\\u6790\\uff1b\\u7b2c11\\u7ae0\\u5219\\u5bf9\\u6240\\u6709\\u7a0b\\u5e8f\\u5458\\u5fc5\\u987b\\u638c\\u63e1\\u7684\\u51e0\\u79cd\\u7b97\\u6cd5\\u8fdb\\u884c\\u4e86\\u8be6\\u7ec6\\u7684\\u8bb2\\u89e3\\uff1b\\u9644\\u5f55\\u7ecf\\u9a8c\\u6027\\u5730\\u603b\\u7ed3\\u4e86\\u5982\\u4f55\\u517b\\u6210\\u826f\\u597d\\u7684\\u7f16\\u7801\\u4e60\\u60ef\\uff0c\\u8fd9\\u5bf9\\u6240\\u6709\\u5f00\\u53d1\\u8005\\u90fd\\u5c24\\u4e3a\\u91cd\\u8981\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x221563ab1a7fd5360cbb1adb28\x22,\x22title\x22:\x22\\u7f16\\u5199\\u9ad8\\u8d28\\u91cf\\u4ee3\\u7801\\uff1a\\u6539\\u5584JavaScript\\u7a0b\\u5e8f\\u7684188\\u4e2a\\u5efa\\u8bae\x22,\x22author\x22:\x22\\u6210\\u6797\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/4ec2d5628535e5dd4311719c75c6a7efce1b62b0.jpg\x22,\x22paper_price\x22:\x2269.00\x22,\x22price\x22:\x2218.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u534e\\u7ae0\\u6570\\u5a92\x22,\x22confirm_price\x22:\x221800\x22,\x22payprice\x22:\x224000\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x221800\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x221800\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x221800\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x221800\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x221800\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000Web\\u524d\\u7aef\\u5de5\\u7a0b\\u5e08\\u8fdb\\u9636\\u4fee\\u70bc\\u7684\\u5fc5\\u8bfb\\u4e4b\\u4f5c\\uff0c\\u5c06\\u4e3a\\u4f60\\u901a\\u5f80\\u201cJavaScript\\u6280\\u672f\\u6bbf\\u5802\\u201d\\u6307\\u70b9\\u8ff7\\u6d25\\uff01\\u5185\\u5bb9\\u5168\\u90e8\\u7531\\u7f16\\u5199\\u9ad8\\u8d28\\u91cf\\u7684JavaScript\\u4ee3\\u7801\\u7684\\u6700\\u4f73\\u5b9e\\u8df5\\u7ec4\\u6210\\uff0c\\u4ece\\u57fa\\u672c\\u8bed\\u6cd5\\u3001\\u5e94\\u7528\\u67b6\\u6784\\u3001\\u5de5\\u5177\\u6846\\u67b6\\u3001\\u7f16\\u7801\\u98ce\\u683c\\u3001\\u7f16\\u7a0b\\u601d\\u60f3\\u7b495\\u5927\\u65b9\\u9762\\u5bf9Web\\u524d\\u7aef\\u5de5\\u7a0b\\u5e08\\u9047\\u5230\\u7684\\u7591\\u96be\\u95ee\\u9898\\u7ed9\\u51fa\\u4e86\\u7ecf\\u9a8c\\u6027\\u7684\\u89e3\\u51b3\\u65b9\\u6848\\uff0c\\u4e3aWeb\\u524d\\u7aef\\u5de5\\u7a0b\\u5e08\\u5982\\u4f55\\u7f16\\u5199\\u66f4\\u9ad8\\u8d28\\u91cf\\u7684JavaScript\\u4ee3\\u7801\\u63d0\\u4f9b\\u4e86188\\u6761\\u6781\\u4e3a\\u5b9d\\u8d35\\u7684\\u5efa\\u8bae\\u3002\\u5bf9\\u4e8e\\u6bcf\\u4e00\\u4e2a\\u95ee\\u9898\\uff0c\\u4e0d\\u4ec5\\u4ee5\\u5efa\\u8bae\\u7684\\u65b9\\u5f0f\\u7ed9\\u51fa\\u4e86\\u88ab\\u5b9e\\u8df5\\u8bc1\\u660e\\u4e3a\\u5341\\u5206\\u4f18\\u79c0\\u7684\\u89e3\\u51b3\\u65b9\\u6848\\uff0c\\u800c\\u4e14\\u8fd8\\u7ed9\\u51fa\\u4e86\\u7ecf\\u5e38\\u88ab\\u8bef\\u7528\\u6216\\u88ab\\u9519\\u8bef\\u7406\\u89e3\\u7684\\u4e0d\\u597d\\u7684\\u89e3\\u51b3\\u65b9\\u6848\\uff0c\\u4ece\\u6b63\\u53cd\\u4e24\\u4e2a\\u65b9\\u9762\\u8fdb\\u884c\\u4e86\\u5206\\u6790\\u548c\\u5bf9\\u6bd4\\uff0c\\u72b9\\u5982\\u918d\\u9190\\u704c\\u9876\\uff0c\\u8ba9\\u4eba\\u8c41\\u7136\\u5f00\\u6717\\u3002\\n\\u3000\\u3000\\u9488\\u5bf9\\u6bcf\\u4e2a\\u95ee\\u9898\\u6240\\u8bbe\\u8ba1\\u7684\\u5e94\\u7528\\u573a\\u666f\\u90fd\\u975e\\u5e38\\u5178\\u578b\\uff0c\\u7ed9\\u51fa\\u7684\\u5efa\\u8bae\\u4e5f\\u90fd\\u4e0e\\u5b9e\\u8df5\\u7d27\\u5bc6\\u7ed3\\u5408\\u3002\\u6bcf\\u4e00\\u6761\\u5efa\\u8bae\\u90fd\\u53ef\\u80fd\\u5728\\u4f60\\u7684\\u4e0b\\u4e00\\u884c\\u4ee3\\u7801\\u3001\\u4e0b\\u4e00\\u4e2a\\u5e94\\u7528\\u6216\\u4e0b\\u4e00\\u4e2a\\u9879\\u76ee\\u4e2d\\u88ab\\u7528\\u5230\\uff0c\\u5efa\\u8bae\\u4f60\\u5c06\\u6b64\\u4e66\\u653e\\u7f6e\\u5728\\u624b\\u8fb9\\uff0c\\u968f\\u65f6\\u67e5\\u9605\\uff0c\\u4e00\\u5b9a\\u80fd\\u4f7f\\u4f60\\u7684\\u5b66\\u4e60\\u548c\\u5f00\\u53d1\\u5de5\\u4f5c\\u4e8b\\u534a\\u529f\\u500d\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x223ce7606179563c1ec5da71cd\x22,\x22title\x22:\x22JavaScript\\u5165\\u95e8\\u7ecf\\u5178\x22,\x22author\x22:\x22\\u9ad8\\u6625\\u8273;\\u5f20\\u91d1\\u8f89\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/d000baa1cd11728b65601864cbfcc3cec3fd2c22.jpg\x22,\x22paper_price\x22:\x2269.00\x22,\x22price\x22:\x2240.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u534e\\u7ae0\\u6570\\u5a92\x22,\x22confirm_price\x22:\x224000\x22,\x22payprice\x22:\x224000\x22,\x22now_effective_activity\x22:\x220\x22,\x22activity_devices_list\x22:[],\x22abstract\x22:\x22\\u3000\\u3000\\u4ee5\\u521d\\u5b66\\u8005\\u4e3a\\u6838\\u5fc3\\uff0c\\u5168\\u9762\\u4ecb\\u7ecd\\u4e86\\u4f7f\\u7528JavaSeript\\u8fdb\\u884c\\u7f51\\u7ad9\\u5f00\\u53d1\\u7684\\u5404\\u79cd\\u6280\\u672f\\u3002\\u5728\\u5185\\u5bb9\\u7f16\\u6392\\u4e0a\\u7531\\u6d45\\u5165\\u6df1\\uff0c\\u8ba9\\u8bfb\\u8005\\u5faa\\u5e8f\\u6e10\\u8fdb\\u5730\\u638c\\u63e1\\u7f16\\u7a0b\\u6280\\u672f\\uff1b\\u5728\\u5185\\u5bb9\\u8bb2\\u89e3\\u4e0a\\u7ed3\\u5408\\u4e30\\u5bcc\\u7684\\u56fe\\u89e3\\u548c\\u5f62\\u8c61\\u7684\\u6bd4\\u55bb\\uff0c\\u5e2e\\u52a9\\u8bfb\\u8005\\u7406\\u89e3\\u201c\\u6666\\u6da9\\u96be\\u61c2\\u201d\\u7684\\u6280\\u672f\\uff1b\\u5728\\u5185\\u5bb9\\u5f62\\u5f0f\\u4e0a\\u9644\\u6709\\u5927\\u91cf\\u7684\\u63d0\\u793a\\u3001\\u6280\\u5de7\\u3001\\u8bf4\\u660e\\u7b49\\u680f\\u76ee\\uff0c\\u592f\\u5b9e\\u8bfb\\u8005\\u7f16\\u7a0b\\u57fa\\u7840\\uff0c\\u4e30\\u5bcc\\u5176\\u7f16\\u7a0b\\u7ecf\\u9a8c\\u3002\\n\\u3000\\u3000\\u5168\\u4e66\\u5171\\u52064\\u7bc720\\u7ae0\\uff0c\\u5176\\u4e2d\\uff1a\\u7b2c\\u4e00\\u7bc7\\u4e3a\\u57fa\\u7840\\u77e5\\u8bc6\\u7bc7\\uff0c\\u4e3b\\u8981\\u5305\\u62ec\\u5f00\\u542fJavaScript\\u5f00\\u53d1\\u4e4b\\u95e8\\uff0c\\u56fa\\u672c\\u6c42\\u6e90\\u2015\\u2015JavaScfipt\\u57fa\\u7840\\uff0c\\u4f53\\u9a8c\\u903b\\u8f91\\u4e4b\\u7f8e\\u2015\\u2015\\u6d41\\u7a0b\\u63a7\\u5236\\uff0c\\u5316\\u6574\\u4e3a\\u96f6\\u2015\\u2015\\u51fd\\u6570\\u53ca\\u5176\\u4f7f\\u7528\\uff0c\\u591a\\u53d8\\u7684\\u5b57\\u7b26\\u4e32\\u4e0e\\u6570\\u503c\\u5904\\u7406\\u5bf9\\u8c61\\uff0c\\u4e32\\u8d77\\u6570\\u636e\\u7684\\u73cd\\u73e0\\u94fe\\u2015\\u2015\\u6570\\u7ec4\\uff0c\\u683c\\u5f0f\\u5de5\\u5382\\u2015\\u2015\\u6b63\\u5219\\u8868\\u8fbe\\u5f0f\\uff0c\\u8ba9\\u7a0b\\u5e8f\\u542c\\u8bdd\\u2015\\u2015\\u7a0b\\u5e8f\\u8c03\\u8bd5\\u4e0e\\u9519\\u8bef\\u5904\\u7406\\u7b49\\u5185\\u5bb9\\uff1b\\u7b2c\\u4e8c\\u7bc7\\u4e3a\\u6838\\u5fc3\\u6280\\u672f\\u7bc7\\uff0c\\u4e3b\\u8981\\u5305\\u62ec\\u7f51\\u9875\\u7684\\u6838\\u5fc3\\u2015\\u2015Document\\u5bf9\\u8c61\\uff0c\\u4e0e\\u7528\\u6237\\u4ea4\\u4e92\\u7684Window\\u5bf9\\u8c61\\uff0cJavaScript\\u4e2d\\u5e38\\u7528\\u7684\\u4e8b\\u4ef6\\u5904\\u7406\\uff0cJavaScript\\u5f00\\u53d1\\u5fc5\\u4fee\\u8bfe\\u4e4b\\u8868\\u5355\\uff0c\\u521b\\u5efa\\u548c\\u4f7f\\u7528Cookie\\uff0c\\u4f7f\\u7528\\u5d4c\\u5165\\u5f0f\\u63d2\\u4ef6\\u4e30\\u5bccJavaScript\\u7f51\\u9875\\u7b49\\u5185\\u5bb9\\uff1b\\u7b2c\\u4e09\\u7bc7\\u4e3a\\u9ad8\\u7ea7\\u5e94\\u7528\\u7bc7\\uff0c\\u4e3b\\u8981\\u5305\\u62ec\\u7eda\\u4e3d\\u591a\\u5f69\\u2015\\u2015JavaScript\\u4e2d\\u7684\\u56fe\\u50cf\\u5904\\u7406\\uff0c\\u6587\\u4ef6\\u5904\\u7406\\u53ca\\u9875\\u9762\\u6253\\u5370\\uff0cJava.Script\\u548cXMLDOM\\u7f16\\u7a0b\\uff0c\\u5b8c\\u7f8e\\u4f53\\u9a8cAJAX\\u6280\\u672f\\uff0c\\u6700\\u6d41\\u884c\\u7684JavaScript\\u63d2\\u4ef6\\u2015\\u2015jQuery\\u7b49\\u5185\\u5bb9\\uff1b\\u7b2c\\u56db\\u7bc7\\u4e3a\\u9879\\u76ee\\u5b9e\\u6218\\u7bc7\\uff0c\\u4e3b\\u8981\\u5305\\u62ecJavaScript+AJAX+jQuery\\u5b9e\\u73b0\\u4f01\\u4e1a\\u95e8\\u6237\\u7f51\\u7ad9\\u8fd9\\u4e2a\\u5b9e\\u6218\\u9879\\u76ee\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x2226bc47545727a5e9846a615e\x22,\x22title\x22:\x22Office 2010\\u4ece\\u5165\\u95e8\\u5230\\u7cbe\\u901a\x22,\x22author\x22:\x22\\u534e\\u8bda\\u79d1\\u6280\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/960a304e251f95caa0f4e3f3ca177f3e67095275.jpg\x22,\x22paper_price\x22:\x2249.00\x22,\x22price\x22:\x226.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u534e\\u7ae0\\u6570\\u5a92\x22,\x22confirm_price\x22:\x22600\x22,\x22payprice\x22:\x223000\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22600\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22600\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22600\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22600\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22600\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u4ee5\\u521d\\u5b66\\u8005\\u4ece\\u5165\\u95e8\\u5230\\u7cbe\\u901a\\u4e3a\\u601d\\u8def\\u5c55\\u5f00\\u8bb2\\u89e3\\uff0c\\u5bf9Office2010\\u4e2d\\u7684\\u5e38\\u7528\\u8f6f\\u4ef6-Word\\u3001Excel\\u3001PowerPoint\\u8fdb\\u884c\\u4e86\\u7cfb\\u7edf\\u7684\\u8bb2\\u89e3\\uff0c\\u4ee5\\u5408\\u7406\\u7684\\u7ed3\\u6784\\u548c\\u7ecf\\u5178\\u7684\\u5b9e\\u4f8b\\u5bf9\\u6700\\u57fa\\u672c\\u548c\\u6700\\u5b9e\\u7528\\u7684\\u529f\\u80fd\\u8fdb\\u884c\\u4e86\\u8be6\\u7ec6\\u4ecb\\u7ecd\\u3002\\u4f8b\\u5982\\uff0c\\u5728Word\\u4e2d\\u8fdb\\u884c\\u56fe\\u6587\\u6df7\\u6392\\u3001\\u63d2\\u5165\\u7ec4\\u7ec7\\u7ed3\\u6784\\u56fe\\u4ee5\\u53ca\\u7f16\\u8f91\\u516c\\u5f0f\\u7b49\\uff1b\\u5728Excel\\u4e2d\\u63d2\\u5165\\u6570\\u636e\\u56fe\\u8868\\u3001\\u6570\\u636e\\u7684\\u7b5b\\u9009\\u4ee5\\u53ca\\u4fdd\\u62a4\\u7b49\\uff1b\\u5728PowerPoint\\u4e2d\\u63d2\\u5165\\u8868\\u683c\\u3001\\u7f8e\\u5316\\u5e7b\\u706f\\u7247\\u4ee5\\u53ca\\u653e\\u7f6e\\u52a8\\u753b\\u7b49\\u3002\\n\\u3000\\u3000\\u662f\\u6307\\u5bfc\\u521d\\u5b66\\u8005\\u5b66\\u4e60Word\\u3001Excel\\u548cPowerPoint\\u529e\\u516c\\u5e94\\u7528\\u7684\\u5165\\u95e8\\u4e66\\u7c4d\\u3002\\u6253\\u7834\\u4e86\\u4f20\\u7edf\\u7684\\u6309\\u90e8\\u5c31\\u73ed\\u8bb2\\u89e3\\u77e5\\u8bc6\\u7684\\u6a21\\u5f0f\\uff0c\\u4ee5\\u5b9e\\u9645\\u5e94\\u7528\\u4e3a\\u51fa\\u53d1\\u70b9\\uff0c\\u901a\\u8fc7\\u5927\\u91cf\\u6765\\u6e90\\u4e8e\\u5b9e\\u9645\\u5de5\\u4f5c\\u7684\\u7cbe\\u5f69\\u5b9e\\u4f8b\\uff0c\\u5168\\u9762\\u6db5\\u76d6\\u4e86\\u8bfb\\u8005\\u5728\\u4f7f\\u7528Word\\u3001Excel\\u548cPowerPoint\\u8fdb\\u884c\\u65e5\\u5e38\\u529e\\u516c\\u8fc7\\u7a0b\\u4e2d\\u6240\\u9047\\u5230\\u7684\\u95ee\\u9898\\u53ca\\u5176\\u89e3\\u51b3\\u65b9\\u6848\\u3002\\u5168\\u4e66\\u5171\\u5206\\u4e3a21\\u7ae0\\uff0c\\u5206\\u522b\\u4ecb\\u7ecd\\u4e09\\u4e2a\\u7ec4\\u4ef6\\u7684\\u57fa\\u7840\\u901a\\u7528\\u529f\\u80fd\\uff0cWord2010\\u7684\\u6587\\u6863\\u7f16\\u8f91\\u529f\\u80fd\\uff0cExcel2010\\u5236\\u4f5c\\u8868\\u683c\\u7684\\u5e38\\u7528\\u529f\\u80fd\\uff0cPowerPoint2010\\u5236\\u4f5c\\u5e7b\\u706f\\u7247\\u7684\\u5e38\\u7528\\u529f\\u80fd\\uff0c\\u4e09\\u4e2a\\u7ec4\\u4ef6\\u4e4b\\u95f4\\u7684\\u534f\\u540c\\u64cd\\u4f5c\\uff0c\\u4e09\\u4e2a\\u7ec4\\u4ef6\\u7684\\u6253\\u5370\\u8bbe\\u7f6e\\u3001\\u9884\\u89c8\\u4ee5\\u53ca\\u6253\\u5370\\u64cd\\u4f5c\\u7b49\\u3002\\u5c06Word\\u3001Excel\\u548cPowerPoint\\u4e09\\u5927\\u8f6f\\u4ef6\\u5206\\u6210\\u4e86\\u4e09\\u4e2a\\u90e8\\u5206\\u8fdb\\u884c\\u8bb2\\u89e3\\uff0c\\u65e2\\u53ef\\u4f5c\\u4e3aOffice\\u7528\\u6237\\u7684\\u5165\\u95e8\\u7ea7\\u56fe\\u4e66\\uff0c\\u4e5f\\u53ef\\u4f5c\\u4e3a\\u5927\\u4e2d\\u4e13\\u9662\\u6821\\u4ee5\\u53ca\\u793e\\u4f1a\\u5404\\u7c7b\\u57f9\\u8bad\\u73ed\\u7684\\u9996\\u9009\\u6559\\u6750\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x224f7516a8bb4cf7ec4afed0b6\x22,\x22title\x22:\x22C\\u8bed\\u8a00\\u5165\\u95e8\\u7ecf\\u5178\x22,\x22author\x22:\x22\\u5218\\u5fd7\\u94ed;\\u6768\\u4e3d\\u7b49\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/a9d3fd1f4134970a7e53416396cad1c8a7865d5d.jpg\x22,\x22paper_price\x22:\x2259.00\x22,\x22price\x22:\x2240.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u534e\\u7ae0\\u6570\\u5a92\x22,\x22confirm_price\x22:\x224000\x22,\x22payprice\x22:\x224000\x22,\x22now_effective_activity\x22:\x220\x22,\x22activity_devices_list\x22:[],\x22abstract\x22:\x22\\u3000\\u3000\\u9762\\u5411C\\u8bed\\u8a00\\u521d\\u5b66\\u8005\\uff0c\\u8be6\\u7ec6\\u4e14\\u5168\\u9762\\u5730\\u8bb2\\u89e3\\u4e86C\\u8bed\\u8a00\\u7684\\u5404\\u79cd\\u77e5\\u8bc6\\uff0c\\u4ece\\u57fa\\u7840\\u77e5\\u8bc6\\u5230\\u9ad8\\u7ea7\\u5e94\\u7528\\uff0c\\u7531\\u6d45\\u5165\\u6df1\\uff0c\\u5faa\\u5e8f\\u6e10\\u8fdb\\u5730\\u5f15\\u9886\\u8bfb\\u8005\\u638c\\u63e1C\\u8bed\\u8a00\\u4e2d\\u7684\\u5404\\u79cd\\u7f16\\u7a0b\\u6280\\u672f\\uff0c\\u4f53\\u4f1aC\\u8bed\\u8a00\\u7684\\u7075\\u6d3b\\u4e0e\\u5f3a\\u5927\\u3002\\u540c\\u65f6\\uff0c\\u300aC\\u8bed\\u8a00\\u5165\\u95e8\\u7ecf\\u5178\\u300b\\u7740\\u773c\\u4e8e\\u5e94\\u7528\\u6280\\u672f\\uff0c\\u8fd8\\u4ecb\\u7ecd\\u4e86\\u4f7f\\u7528C\\u8bed\\u8a00\\u4e0eMySQL\\u6570\\u636e\\u5e93\\u5f00\\u53d1\\u9879\\u76ee\\u7684\\u5185\\u5bb9\\uff0c\\u5e2e\\u52a9\\u8bfb\\u8005\\u5f00\\u9614\\u89c6\\u91ce\\u3002\\u4e66\\u4e2d\\u914d\\u6709\\u5927\\u91cf\\u7684\\u5b9e\\u4f8b\\uff0c\\u52a0\\u4e4b\\u8be6\\u7ec6\\u7684\\u8bb2\\u89e3\\uff0c\\u5168\\u9762\\u5730\\u89e3\\u7b54\\u8bfb\\u8005\\u7684\\u7591\\u60d1\\uff0c\\u5e2e\\u52a9\\u8bfb\\u8005\\u7406\\u89e3\\u201c\\u6666\\u6da9\\u96be\\u61c2\\u201d\\u7684\\u6280\\u672f\\uff1b\\u4e66\\u4e2d\\u8fd8\\u914d\\u6709\\u5927\\u91cf\\u7684\\u63d2\\u56fe\\uff0c\\u56fe\\u6587\\u5e76\\u8302\\uff0c\\u6fc0\\u53d1\\u8bfb\\u8005\\u7684\\u5b66\\u4e60\\u5174\\u8da3\\uff0c\\u4f7f\\u8bfb\\u8005\\u5728\\u5b66\\u4e60\\u8fc7\\u7a0b\\u4e2d\\u4e0d\\u4f1a\\u611f\\u89c9\\u5230\\u67af\\u71e5\\u65e0\\u5473\\uff1b\\u4e66\\u4e2d\\u8fd8\\u6709\\u5927\\u91cf\\u7684\\u6280\\u5de7\\u63d0\\u793a\\uff0c\\u542f\\u53d1\\u8bfb\\u8005\\u7684\\u601d\\u7ef4\\uff0c\\u4f7f\\u8bfb\\u8005\\u5145\\u5206\\u53d1\\u6325\\u60f3\\u8c61\\u529b\\u3002\\n\\u3000\\u3000\\u5168\\u4e66\\u5206\\u4e3a\\u56db\\u7bc715\\u7ae0\\uff0c\\u5176\\u4e2d\\uff0c\\u7b2c\\u4e00\\u7bc7\\u4e3a\\u57fa\\u7840\\u77e5\\u8bc6\\u7bc7\\uff08\\u7b2c1\\uff5e5\\u7ae0\\uff09\\uff0c\\u5305\\u62ec\\u4e86\\u89e3C\\u8bed\\u8a00\\u7684\\u4ea7\\u751f\\u80cc\\u666f\\u3001\\u4e86\\u89e3C\\u8bed\\u8a00\\u7684\\u5e94\\u7528\\u524d\\u666f\\u3001\\u719f\\u6089C\\u8bed\\u8a00\\u7684\\u5f00\\u53d1\\u73af\\u5883\\u3001\\u4e86\\u89e3\\u7a0b\\u5e8f\\u7684\\u7075\\u9b42\\u2015\\u2015\\u7b97\\u6cd5\\u3001\\u638c\\u63e1C\\u8bed\\u8a00\\u7684\\u57fa\\u672c\\u6570\\u636e\\u7c7b\\u578b\\u3001\\u638c\\u63e1c\\u8bed\\u8a00\\u7684\\u8fd0\\u7b97\\u7b26\\u4e0e\\u8868\\u8fbe\\u5f0f\\u3001\\u638c\\u63e1C\\u8bed\\u8a00\\u4e2d\\u76843\\u79cd\\u7a0b\\u5e8f\\u7ed3\\u6784\\uff1b\\u7b2c\\u4e8c\\u7bc7\\u4e3a\\u6838\\u5fc3\\u6280\\u672f\\u7bc7\\uff08\\u7b2c6\\uff5e8\\u7ae0\\uff09\\uff0c\\u5305\\u62ec\\u638c\\u63e1\\u6570\\u7ec4\\u53ca\\u5176\\u5e94\\u7528\\u3001\\u638c\\u63e1\\u51fd\\u6570\\u53ca\\u5176\\u5e94\\u7528\\u3001\\u638c\\u63e1\\u6307\\u9488\\u53ca\\u5176\\u5e94\\u7528\\uff1b\\u7b2c\\u4e09\\u7bc7\\u4e3a\\u9ad8\\u7ea7\\u7f16\\u7a0b\\u7bc7\\uff08\\u7b2c9\\uff5el2\\u7ae0\\uff09\\uff0c\\u5305\\u62ec\\u638c\\u63e1\\u9884\\u5904\\u7406\\u547d\\u4ee4\\u3001\\u4e86\\u89e3\\u5185\\u5b58\\u7684\\u7ec4\\u7ec7\\u65b9\\u5f0f\\u53ca\\u52a8\\u6001\\u5730\\u7ba1\\u7406\\u5185\\u5b58\\u3001\\u638c\\u63e1\\u7ed3\\u6784\\u4f53\\u4e0e\\u5171\\u7528\\u4f53\\u3001\\u638c\\u63e1\\u6587\\u4ef6\\u7684\\u5404\\u79cd\\u64cd\\u4f5c\\uff1b\\u7b2c\\u56db\\u7bc7\\u4e3a\\u9879\\u76ee\\u5b9e\\u6218\\u7bc7\\uff08\\u7b2c13\\uff5e15\\u7ae0\\uff09\\uff0c\\u5305\\u62ecMySQL\\u6570\\u636e\\u5e93\\u7684\\u5b89\\u88c5\\u4e0e\\u914d\\u7f6e\\u7ba1\\u7406\\u3001MySQL\\u6570\\u636e\\u5e93\\u7684\\u5e38\\u7528\\u547d\\u4ee4\\u3001C\\u8bed\\u8a00\\u8bbf\\u95eeMySQL\\u6570\\u636e\\u5e93\\u3001\\u4f7f\\u7528\\u94fe\\u8868\\u4e0e\\u6587\\u4ef6\\u5f00\\u53d1\\u5b66\\u751f\\u4fe1\\u606f\\u7ba1\\u7406\\u7cfb\\u7edf\\u3001\\u4f7f\\u7528C\\u8bed\\u8a00\\u4e0eMySQL\\u6570\\u636e\\u5e93\\u5f00\\u53d1\\u8f66\\u8f86\\u4fe1\\u606f\\u7ba1\\u7406\\u7cfb\\u7edf\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x229b401eba3186bceb19e8bbf7\x22,\x22title\x22:\x22\\u4fe1\\u606f\\u7cfb\\u7edf\\u76d1\\u7406\\u5de5\\u7a0b\\u5e08\\u624b\\u518c\x22,\x22author\x22:\x22\\u859b\\u5927\\u9f99\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/960a304e251f95ca817ec2faca177f3e660952f6.jpg\x22,\x22paper_price\x22:\x2279.00\x22,\x22price\x22:\x221.99\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u534e\\u7ae0\\u6570\\u5a92\x22,\x22confirm_price\x22:\x22199\x22,\x22payprice\x22:\x225000\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x22199\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x22199\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u4fe1\\u606f\\u7cfb\\u7edf\\u76d1\\u7406\\u9886\\u57df\\u7684\\u767e\\u79d1\\u5168\\u4e66\\uff0c\\u7531\\u56fd\\u5185\\u9876\\u7ea7\\u4fe1\\u606f\\u7cfb\\u7edf\\u9879\\u76ee\\u7ba1\\u7406\\u4e13\\u5bb6\\u517c\\u4fe1\\u606f\\u7cfb\\u7edf\\u76d1\\u7406\\u4e13\\u5bb6\\u4eb2\\u81ea\\u6267\\u7b14\\uff0c\\u4fe1\\u606f\\u7cfb\\u7edf\\u76d1\\u7406\\u9886\\u57df10\\u4f59\\u4f4d\\u8d44\\u6df1\\u4e13\\u5bb6\\u8054\\u8882\\u63a8\\u8350\\uff0c\\u6743\\u5a01\\u6027\\u6bcb\\u5eb8\\u7f6e\\u7591\\u3002\\u300a\\u4fe1\\u606f\\u7cfb\\u7edf\\u76d1\\u7406\\u5de5\\u7a0b\\u5e08\\u624b\\u518c\\u300b\\u662f\\u4f5c\\u8005\\u5728\\u4fe1\\u606f\\u7cfb\\u7edf\\u9886\\u57df12\\u5e74\\u5de5\\u7a0b\\u76d1\\u7406\\u3001\\u9879\\u76ee\\u7ba1\\u7406\\u3001\\u54a8\\u8be2\\u548c\\u57f9\\u8bad\\u7ecf\\u9a8c\\u7684\\u7ed3\\u6676\\u3002\\u5185\\u5bb9\\u5168\\u9762\\u3001\\u7406\\u8bba\\u4e25\\u8c28\\u3001\\u65b9\\u6cd5\\u79d1\\u5b66\\u3001\\u6d41\\u7a0b\\u89c4\\u8303\\u3001\\u6848\\u4f8b\\u5145\\u5b9e\\u3001\\u53ef\\u64cd\\u4f5c\\u6027\\u5f3a\\u3002\\n\\u3000\\u3000\\u300a\\u4fe1\\u606f\\u7cfb\\u7edf\\u76d1\\u7406\\u5de5\\u7a0b\\u5e08\\u624b\\u518c\\u300b\\u4e00\\u5171\\u5206\\u4e3a\\u56db\\u5927\\u90e8\\u5206\\uff1a\\u57fa\\u7840\\u7bc7\\u6df1\\u5165\\u6d45\\u51fa\\uff0c\\u4f9d\\u6b21\\u4ecb\\u7ecd\\u4e86\\u4fe1\\u606f\\u7cfb\\u7edf\\u5de5\\u7a0b\\u76d1\\u7406\\u7684\\u57fa\\u672c\\u6982\\u5ff5\\u3001\\u76d1\\u7406\\u5355\\u4f4d\\u7684\\u7ec4\\u7ec7\\\/\\u5efa\\u8bbe\\\/\\u89c4\\u5212\\u3001\\u76d1\\u7406\\u5408\\u540c\\u7684\\u7ba1\\u7406\\u53ca\\u6536\\u8d39\\uff0c\\u4ee5\\u53ca\\u5404\\u9636\\u6bb5\\u7684\\u76d1\\u7406\\u5de5\\u4f5c\\uff1b\\u65b9\\u6cd5\\u7bc7\\u79d1\\u5b66\\u4e25\\u8c28\\uff0c\\u7cfb\\u7edf\\u5730\\u8bb2\\u89e3\\u4e86\\u9879\\u76ee\\u8d28\\u91cf\\u63a7\\u5236\\u3001\\u9879\\u76ee\\u8fdb\\u5ea6\\u63a7\\u5236\\u3001\\u6295\\u8d44\\u63a7\\u5236\\u3001\\u53d8\\u66f4\\u63a7\\u5236\\u3001\\u5408\\u540c\\u7ba1\\u7406\\u3001\\u4fe1\\u606f\\u7ba1\\u7406\\u3001\\u5b89\\u5168\\u7ba1\\u7406\\u3001\\u7ec4\\u7ec7\\u534f\\u8c03\\u65b9\\u9762\\u7684\\u6280\\u672f\\u7ec6\\u8282\\uff1b\\u5e94\\u7528\\u7bc7\\u6ce8\\u91cd\\u5b9e\\u6218\\u548c\\u5b9e\\u7528\\uff0c\\u7ed3\\u5408\\u7ecf\\u5178\\u7684\\u6848\\u4f8b\\uff0c\\u6709\\u9488\\u5bf9\\u6027\\u5730\\u4ecb\\u7ecd\\u4e86\\u7535\\u5b50\\u653f\\u52a1\\u7cfb\\u7edf\\u3001\\u6570\\u636e\\u8d44\\u6e90\\u7ba1\\u7406\\u7cfb\\u7edf\\u3001\\u7efc\\u5408\\u5e03\\u7ebf\\u7cfb\\u7edf\\u3001\\u8ba1\\u7b97\\u673a\\u7f51\\u7edc\\u7cfb\\u7edf\\u3001\\u4e00\\u5361\\u901a\\u7cfb\\u7edf\\u3001\\u5927\\u5c4f\\u663e\\u793a\\u7cfb\\u7edf\\u3001\\u5b89\\u5168\\u9632\\u8303\\u7cfb\\u7edf\\u3001\\u697c\\u5b87\\u81ea\\u63a7\\u7cfb\\u7edf\\u3001\\u667a\\u80fd\\u5316\\u4f1a\\u8bae\\u5ba4\\u7cfb\\u7edf\\u3001\\u821e\\u53f0\\u73af\\u5883\\u7cfb\\u7edf\\u3001\\u516c\\u5171\\u5e7f\\u64ad\\u7cfb\\u7edf\\u3001\\u901a\\u4fe1\\u5de5\\u7a0b\\u3001\\u673a\\u623f\\u5de5\\u7a0b\\u7684\\u76d1\\u7406\\u65b9\\u6cd5\\u4e0e\\u8981\\u70b9\\uff1b\\u63d0\\u9ad8\\u7bc7\\u9ad8\\u5c4b\\u5efa\\u74f4\\uff0c\\u5168\\u9762\\u5730\\u8bb2\\u89e3\\u4e86\\u4e24\\u7f51\\\/\\u4e00\\u7ad9\\\/\\u56db\\u5e93\\\/\\u5341\\u4e8c\\u91d1\\u5de5\\u7a0b\\u3001\\u4fe1\\u606f\\u7cfb\\u7edf\\u9879\\u76ee\\u7ba1\\u7406\\u7684\\u5404\\u9879\\u7ec6\\u8282\\uff0c\\u4ee5\\u53ca\\u7269\\u8054\\u7f51\\u3001\\u4e91\\u8ba1\\u7b97\\u3001\\u865a\\u62df\\u5316\\u7b49\\u65b0\\u5174\\u4fe1\\u606f\\u5316\\u6280\\u672f\\u5bf9\\u76d1\\u7406\\u5de5\\u4f5c\\u7684\\u4f5c\\u7528\\u548c\\u5f71\\u54cd\\uff0c\\u5145\\u5206\\u4f53\\u73b0\\u4e86\\u524d\\u6cbf\\u6027\\u4ee5\\u53ca\\u4fe1\\u606f\\u7cfb\\u7edf\\u5de5\\u7a0b\\u4e0e\\u5efa\\u8bbe\\u5de5\\u7a0b\\u7684\\u6280\\u672f\\u878d\\u5408\\u6027\\u3002\\u300a\\u4fe1\\u606f\\u7cfb\\u7edf\\u76d1\\u7406\\u5de5\\u7a0b\\u5e08\\u624b\\u518c\\u300b\\u4e0d\\u4ec5\\u9002\\u5408\\u4f5c\\u4e3a\\u4fe1\\u606f\\u7cfb\\u7edf\\u76d1\\u7406\\u9886\\u57df\\u548c\\u7cfb\\u7edf\\u96c6\\u6210\\u9886\\u57df\\u76f8\\u5173\\u5de5\\u4f5c\\u4eba\\u5458\\u7684\\u5fc5\\u5907\\u5de5\\u4f5c\\u624b\\u518c\\uff0c\\u800c\\u4e14\\u8fd8\\u53ef\\u4f5c\\u4e3a\\u4fe1\\u606f\\u7cfb\\u7edf\\u76d1\\u7406\\u5de5\\u7a0b\\u5e08\\u76f8\\u5173\\u8003\\u8bd5\\u7684\\u9996\\u9009\\u6559\\u6750\\u548c\\u53c2\\u8003\\u4e66\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22},{\x22doc_id\x22:\x221ab5510a9b6648d7c1c746d6\x22,\x22title\x22:\x22\\u83dc\\u9e1f\\u4e5f\\u80fd\\u73a9\\u8f6cExcel\\uff1a\\u5168\\u9762\\u6b66\\u88c5\\u4f60\\u7684Excel\\u64cd\\u4f5c\\u80fd\\u529b\x22,\x22author\x22:\x22\\u738b\\u6749;\\u5df4\\u857e;\\u5218\\u723d;\\u79e6\x22,\x22img_url\x22:\x22http:\\\/\\\/hiphotos.baidu.com\\\/doc\\\/abpic\\\/item\\\/eaf81a4c510fd9f92ed632dc262dd42a2934a446.jpg\x22,\x22paper_price\x22:\x2249.00\x22,\x22price\x22:\x2212.00\x22,\x22is_all_free\x22:\x220\x22,\x22promotion_flag\x22:\x220\x22,\x22is_flagship\x22:\x220\x22,\x22saler_uname\x22:\x22\\u534e\\u7ae0\\u6570\\u5a92\x22,\x22confirm_price\x22:\x221200\x22,\x22payprice\x22:\x223200\x22,\x22now_effective_activity\x22:\x229\x22,\x22activity_devices_list\x22:[{\x22price\x22:\x221200\x22,\x22device\x22:\x221\x22},{\x22price\x22:\x221200\x22,\x22device\x22:\x222\x22},{\x22price\x22:\x221200\x22,\x22device\x22:\x223\x22},{\x22price\x22:\x221200\x22,\x22device\x22:\x224\x22},{\x22price\x22:\x221200\x22,\x22device\x22:\x225\x22}],\x22abstract\x22:\x22\\u3000\\u3000\\u4e3b\\u8981\\u9488\\u5bf9Excel2010\\u8f6f\\u4ef6\\u8fdb\\u884c\\u8bb2\\u89e3\\uff0c\\u8bfb\\u8005\\u53ef\\u4ee5\\u4ece\\u96f6\\u5b66\\u8d77\\uff0c\\u9010\\u6e10\\u638c\\u63e1\\u5e76\\u7cbe\\u901a\\u5404\\u79cd\\u64cd\\u4f5c\\u3002\\u300a\\u83dc\\u9e1f\\u4e5f\\u80fd\\u73a9\\u8f6cExcel\\uff1a\\u5168\\u9762\\u6b66\\u88c5\\u4f60\\u7684Excel\\u64cd\\u4f5c\\u80fd\\u529b\\u300b\\u51717\\u7ae0\\u3002\\u7b2c1\\u7ae0\\u5168\\u9762\\u9610\\u91ca\\u4e86\\u4e00\\u5f20\\u603b\\u8868\\u548cN\\u5f20\\u6570\\u636e\\u900f\\u89c6\\u8868\\u7684\\u5173\\u7cfb\\uff1b\\u7b2c2\\uff5e4\\u7ae0\\u4ecb\\u7ecd\\u4e86\\u4e00\\u4e9bExcel\\u5236\\u8868\\u7684\\u57fa\\u672c\\u6280\\u5de7\\uff0c\\u4ece\\u800c\\u4e3a\\u505a\\u597d\\u603b\\u8868\\u6253\\u4e0b\\u575a\\u5b9e\\u7684\\u5236\\u8868\\u57fa\\u7840\\uff1b\\u7b2c5\\u7ae0\\u4ecb\\u7ecd\\u5236\\u4f5c\\u6570\\u636e\\u900f\\u89c6\\u8868\\u7684\\u65b9\\u6cd5\\uff0c\\u4ee5\\u53ca\\u5728\\u5236\\u4f5c\\u6570\\u636e\\u900f\\u89c6\\u8868\\u7684\\u8fc7\\u7a0b\\u4e2d\\u9700\\u8981\\u6ce8\\u610f\\u7684\\u4e8b\\u9879\\uff0c\\u5b8c\\u5584\\u5236\\u8868\\u8fc7\\u7a0b\\uff1b\\u7b2c6\\u7ae0\\u4ecb\\u7ecd\\u4e00\\u4e9b\\u5236\\u4f5c\\u56fe\\u8868\\u7684\\u65b0\\u601d\\u8def\\uff0c\\u4ece\\u800c\\u66f4\\u597d\\u5730\\u4f53\\u73b0\\u4f60\\u7684\\u601d\\u60f3\\uff1b\\u7b2c7\\u7ae0\\u4ee5\\u8f7b\\u677e\\u7684\\u6c1b\\u56f4\\u4ecb\\u7ecd\\u4e86\\u4e00\\u4e9b\\u63d0\\u70bc\\u51fa\\u6765\\u7684\\u5e38\\u7528\\u6280\\u5de7\\uff0c\\u5e0c\\u671b\\u5927\\u5bb6\\u53ef\\u4ee5\\u5728\\u6b64\\u57fa\\u7840\\u4e0a\\u66f4\\u4e0a\\u4e00\\u5c42\\u697c\\u3002\x22,\x22is_self_publishing\x22:\x22\x22,\x22inMybook\x22:\x220\x22,\x22inCart\x22:\x220\x22}]';var vip_type = +'0';var cid = parseInt('0');d.set('show',show);d.set('class_list',class_list);d.set('book_list',book_list);d.set('vip_type',vip_type);d.set('cid', cid);
+					}(window.__fisData));
+				</script>
+
+<div id="doc" class="page">
+<div id="hd" class="hd">
+
+<div class="drop-ax-container"></div>
+<style type="text/css">
+
+    .drop-ax.dropped .drop-ax-countdown{
+
+        color:#173d6a;
+
+    }
+
+    .drop-ax.dropping .drop-ax-countdown{
+
+        color:#d6433c;
+
+    }
+
+    .drop-ax.dropped .drop-ax-countdown-day{
+
+        left:754px;
+
+    }
+
+    .drop-ax.dropped .drop-ax-countdown-hour{
+
+        left:830px;
+
+    }
+
+    .drop-ax.dropped .drop-ax-countdown-minute{
+
+        left:905px;
+
+    }
+
+   .drop-ax {
+
+       z-index:1!important;
+
+   }
+
+</style>
+
+
+<div class="read-hd">
+<div class="read-searchbox-wp">
+<div class="read-searchbox-inner wrap-page-width">
+<a href="/" class="read-logo" title="百度阅读"></a>
+<div class="read-searchbox">
+<form name="search" class="search" action="http://yuedu.baidu.com/search">
+<input type="text" name="word" class="s-word" maxlength="256" tabindex="1" value="" autocomplete="off" id="s-word-1"/>
+<span class="s-placeholder" style="display:none;">在数十万册图书中搜索</span>
+<input type="hidden" name="pbook" value="0" id="s-pbook" class="s-pbook">
+<input type="button" class="s-submit" value="搜索图书" />
+</form>
+
+<div class="hot-search-list">
+<a href="/search?word=%CC%EC%CF%C2%B0%D4%B3%AA&fr=header_hot_search" target="_blank" class="hot-search mr10	">鬼吹灯</a>
+<a href="/search?word=%C2%DE%BC%AD%CB%BC%CE%AC&fr=header_hot_search" target="_blank" class="hot-search mr10	">罗辑思维</a>
+<a href="/search?word=%C8%FD%CC%E5&fr=header_hot_search" target="_blank" class="hot-search mr10	">三体</a>
+<a href="/search?word=%BB%EE%D7%C5%D4%D9%BC%FB&fr=header_hot_search" target="_blank" class="hot-search mr10	">活着再见</a>
+<a href="/search?word=%D0%A1%CD%F5%D7%D3&fr=header_hot_search" target="_blank" class="hot-search mr10	">小王子</a>
+<a href="/search?word=%BE%C5%D2%B9%DC%EE&fr=header_hot_search" target="_blank" class="hot-search mr10	">匆匆那年</a>
+<a href="/search?word=%C4%CF%C5%C9%C8%FD%CA%E5&fr=header_hot_search" target="_blank" class="hot-search mr10	">盗墓</a>
+<a href="/search?word=%B9%FB%BF%C7&fr=header_hot_search" target="_blank" class="hot-search mr10	">果壳</a>
+</div>
+</div>
+<div class="read-userbar-wp">
+<ul class="read-userbar clearfix read-user-unlogin">
+<li class="ub-li ub-li-login"><span class="ub-border"></span><a href="###" class="ub-item ub-login"><span class="ub-txt">登录</span></a></li>
+<li class="ub-li ub-li-sign"><span class="ub-border"></span><a target="_blank" class="ub-item ub-sign" id="reg-btn" href="https://passport.baidu.com/v2/?reg&tpl=do&u=http%3A%2F%2Fyuedu.baidu.com%2F"><span class="ub-txt">注册</span></a></li>
+<li class="ub-li ub-li-cart"><span class="ub-border"></span><a target="_blank" class="ub-item ub-cart" href="/cart/mycart?fr=header_user_bar"><span class="ub-txt">购物车</span></a></li>
+<li class="ub-li ub-li-tequan"><a target="_blank" class="ub-item ub-tequan log-xsend" data-logxsend="[2, 200226]" href="http://cbg.baidu.com/?sc=1000021"><span class="ub-txt">意见反馈</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="read-nav-wp">
+<div class="read-nav-inner wrap-page-width">
+<ul class="read-nav clearfix">
+<li class="nav-li-index"><a class="nav-index" href="/"><span>首页</span></a><span class="nav-border"></span></li>
+<li class="nav-li-category"><a class="nav-category" href="/book/list/0?fr=indextop"><span>分类</span></a><span class="nav-border"></span></li>
+<li class="nav-li-rank"><a class="nav-rank" href="/rank/hotsale"><span>榜单</span></a><span class="nav-border"></span></li>
+<li class="nav-li-author"><a class="nav-author" href="http://wenku.baidu.com/mingjia" target="_blank"><span>独家作品</span></a><span class="nav-border"></span></li>
+<li class="nav-li-org"><a class="nav-org" href="/partner/index?fr=indextop"><span>机构专区</span></a><span class="nav-border"></span></li>
+<li class="nav-li-app"><a class="nav-app" href="/apps"><span>客户端</span></a><span class="nav-border"></span></li>
+</ul>
+<ul class="read-nav-right clearfix">
+<li class="nav-right-li"><a href="/partner/browse/partnerbookwelcome?fr=head_nav" class="nav-right-mypartner"><span class="nav-right-mypartner-icon"></span>我是机构</a></li>
+<li class="nav-right-li"><a href="/partner/browse/myworks?fr=head_nav" class="nav-right-myauthor"><span class="nav-right-myauthor-icon"></span>我是作者</a></li>
+<li class="nav-right-li"><a href="/customer/mybook?fr=head_nav" class="nav-right-mybook"><span class="nav-right-mybook-icon"></span>我的书架</a></li>
+</ul>
+</div>
+</div>
+<div class="read-hd-ad">
+
+</div>
+</div>
+
+</div>
+<div id="bd" class="bd">
+
+<div class="bd-wrap">
+<div class="body">
+
+<div class="aside">
+
+<div class="booklist_nav">
+<div class="hd">
+<a href="/book/list/0" class="list-title">全部图书分类<b class="ic-all"></b></a>
+</div>
+<div class="bd" style="z-index: 101; position: relative;">
+<div id="all-category" class="mod skin-category">
+<div class="inner">
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-6">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/6">小说</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="言情" href="/book/list/6027">言情</a>
+</li>
+<li>
+<a title="青春" href="/book/list/6032">青春</a>
+</li>
+<li>
+<a title="都市" href="/book/list/6030">都市</a>
+</li>
+<li>
+<a title="历史" href="/book/list/6028">历史</a>
+</li>
+<li>
+<a title="科幻" href="/book/list/6031">科幻</a>
+</li>
+<li>
+<a title="军事" href="/book/list/6006">军事</a>
+</li>
+<li>
+<a title="官场商战" href="/book/list/6026">官场商战</a>
+</li>
+<li>
+<a title="悬疑推理" href="/book/list/6014">悬疑推理</a>
+</li>
+<li>
+<a title="武侠魔幻" href="/book/list/6033">武侠魔幻</a>
+</li>
+<li>
+<a title="灵异恐怖" href="/book/list/6034">灵异恐怖</a>
+</li>
+<li>
+<a title="社会乡土" href="/book/list/6004">社会乡土</a>
+</li>
+<li>
+<a title="影视文学" href="/book/list/6021">影视文学</a>
+</li>
+<li>
+<a title="现当代小说" href="/book/list/6002">现当代小说</a>
+</li>
+<li>
+<a title="外国文学" href="/book/list/6024">外国文学</a>
+</li>
+<li>
+<a title="其他" href="/book/list/6035">其他</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-1">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/1">经济管理</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="企业管理" href="/book/list/1001">企业管理</a>
+</li>
+<li>
+<a title="经济金融" href="/book/list/1010">经济金融</a>
+</li>
+<li>
+<a title="投资理财" href="/book/list/1003">投资理财</a>
+</li>
+<li>
+<a title="市场营销" href="/book/list/1004">市场营销</a>
+</li>
+<li>
+<a title="财会统计" href="/book/list/1015">财会统计</a>
+</li>
+<li>
+<a title="通俗读物" href="/book/list/1017">通俗读物</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-2">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/2">成功励志</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="成功学" href="/book/list/2019">成功学</a>
+</li>
+<li>
+<a title="人在职场" href="/book/list/2008">人在职场</a>
+</li>
+<li>
+<a title="演讲口才" href="/book/list/2001">演讲口才</a>
+</li>
+<li>
+<a title="人际处事" href="/book/list/2009">人际处事</a>
+</li>
+<li>
+<a title="心灵修养" href="/book/list/2003">心灵修养</a>
+</li>
+<li>
+<a title="性格与情绪" href="/book/list/2002">性格与情绪</a>
+</li>
+<li>
+<a title="青少年励志" href="/book/list/2012">青少年励志</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-15">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/15">历史传记</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="人物传记" href="/book/list/15002">人物传记</a>
+</li>
+<li>
+<a title="普及读物" href="/book/list/15003">普及读物</a>
+</li>
+<li>
+<a title="世界各国史" href="/book/list/15004">世界各国史</a>
+</li>
+<li>
+<a title="中国史" href="/book/list/15001">中国史</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-3">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/3">计算机</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="软硬件开发" href="/book/list/3001">软硬件开发</a>
+</li>
+<li>
+<a title="图形与图像" href="/book/list/3003">图形与图像</a>
+</li>
+<li>
+<a title="网络与通信" href="/book/list/3013">网络与通信</a>
+</li>
+<li>
+<a title="家庭与办公" href="/book/list/3004">家庭与办公</a>
+</li>
+<li>
+<a title="IT人文" href="/book/list/3005">IT人文</a>
+</li>
+<li>
+<a title="其他" href="/book/list/3008">其他</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-16">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/16">两性情感</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="两性关系" href="/book/list/16001">两性关系</a>
+</li>
+<li>
+<a title="婚姻家庭" href="/book/list/16002">婚姻家庭</a>
+</li>
+<li>
+<a title="情感恋爱" href="/book/list/16003">情感恋爱</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-5">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/5">生活</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="烹调饮食" href="/book/list/5005">烹调饮食</a>
+</li>
+<li>
+<a title="健康养生" href="/book/list/5006">健康养生</a>
+</li>
+<li>
+<a title="占星风水" href="/book/list/5004">占星风水</a>
+</li>
+<li>
+<a title="时尚摄影" href="/book/list/5007">时尚摄影</a>
+</li>
+<li>
+<a title="旅游地理" href="/book/list/5010">旅游地理</a>
+</li>
+<li>
+<a title="家居手工" href="/book/list/5008">家居手工</a>
+</li>
+<li>
+<a title="美容塑身" href="/book/list/5003">美容塑身</a>
+</li>
+<li>
+<a title="运动健身" href="/book/list/5013">运动健身</a>
+</li>
+<li>
+<a title="休闲娱乐" href="/book/list/5014">休闲娱乐</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-10">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/10">亲子少儿</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="孕产育儿" href="/book/list/10008">孕产育儿</a>
+</li>
+<li>
+<a title="儿童文学" href="/book/list/10007">儿童文学</a>
+</li>
+<li>
+<a title="科普百科" href="/book/list/10006">科普百科</a>
+</li>
+<li>
+<a title="幼儿启蒙" href="/book/list/10003">幼儿启蒙</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-7">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/7">文学艺术</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="散文随笔" href="/book/list/7003">散文随笔</a>
+</li>
+<li>
+<a title="绘本画册" href="/book/list/7010">绘本画册</a>
+</li>
+<li>
+<a title="设计美术" href="/book/list/7001">设计美术</a>
+</li>
+<li>
+<a title="音乐戏剧" href="/book/list/7002">音乐戏剧</a>
+</li>
+<li>
+<a title="纪实文学" href="/book/list/7004">纪实文学</a>
+</li>
+<li>
+<a title="文学理论" href="/book/list/7005">文学理论</a>
+</li>
+<li>
+<a title="诗词歌赋" href="/book/list/7006">诗词歌赋</a>
+</li>
+<li>
+<a title="国学经典" href="/book/list/7009">国学经典</a>
+</li>
+<li>
+<a title="世界名著" href="/book/list/7008">世界名著</a>
+</li>
+<li>
+<a title="其他" href="/book/list/7007">其他</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-4">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/4">社会科学</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="社会学" href="/book/list/4006">社会学</a>
+</li>
+<li>
+<a title="心理学" href="/book/list/4003">心理学</a>
+</li>
+<li>
+<a title="宗教哲学" href="/book/list/4004">宗教哲学</a>
+</li>
+<li>
+<a title="军事法律" href="/book/list/4010">军事法律</a>
+</li>
+<li>
+<a title="时事政治" href="/book/list/4011">时事政治</a>
+</li>
+<li>
+<a title="文化" href="/book/list/4014">文化</a>
+</li>
+<li>
+<a title="教育考试" href="/book/list/4013">教育考试</a>
+</li>
+<li>
+<a title="其他" href="/book/list/4005">其他</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-9">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/9">科技</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="科普读物" href="/book/list/9030">科普读物</a>
+</li>
+<li>
+<a title="自然科学" href="/book/list/9003">自然科学</a>
+</li>
+<li>
+<a title="医学" href="/book/list/9004">医学</a>
+</li>
+<li>
+<a title="工业技术" href="/book/list/9005">工业技术</a>
+</li>
+<li>
+<a title="其他" href="/book/list/9002">其他</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-11">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/11">原创男频</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="玄幻奇幻" href="/book/list/11001">玄幻奇幻</a>
+</li>
+<li>
+<a title="武侠仙侠" href="/book/list/11002">武侠仙侠</a>
+</li>
+<li>
+<a title="都市生活" href="/book/list/11003">都市生活</a>
+</li>
+<li>
+<a title="官场商战" href="/book/list/11012">官场商战</a>
+</li>
+<li>
+<a title="历史架空" href="/book/list/11004">历史架空</a>
+</li>
+<li>
+<a title="军事谍战" href="/book/list/11013">军事谍战</a>
+</li>
+<li>
+<a title="科幻末日" href="/book/list/11014">科幻末日</a>
+</li>
+<li>
+<a title="灵异悬疑" href="/book/list/11006">灵异悬疑</a>
+</li>
+<li>
+<a title="游戏竞技" href="/book/list/11005">游戏竞技</a>
+</li>
+<li>
+<a title="其他" href="/book/list/11015">其他</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-12">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/12">原创女频</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="现代言情" href="/book/list/12002">现代言情</a>
+</li>
+<li>
+<a title="婚恋情感" href="/book/list/12001">婚恋情感</a>
+</li>
+<li>
+<a title="古言架空" href="/book/list/12005">古言架空</a>
+</li>
+<li>
+<a title="穿越重生" href="/book/list/12004">穿越重生</a>
+</li>
+<li>
+<a title="浪漫青春" href="/book/list/12003">浪漫青春</a>
+</li>
+<li>
+<a title="武侠仙侠" href="/book/list/12006">武侠仙侠</a>
+</li>
+<li>
+<a title="幻想异能" href="/book/list/12007">幻想异能</a>
+</li>
+<li>
+<a title="其他" href="/book/list/12008">其他</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-13">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/13">外文</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="其他" href="/book/list/13001">其他</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cate-menu-box cate-menu-box-more cate-menu-box-index-14">
+<div class="tab-cate">
+<div class="tab-cate-hd">
+<a href="/book/list/14">期刊</a>
+<b class="ic ic-arrow"></b>
+</div>
+</div>
+<div class="popup-cate" style="display: none;">
+<ul>
+<li>
+<a title="其他" href="/book/list/14001">其他</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<a href="" class="open" data-status="off">收起<b class="ic-fold"></b></a>
+</div>
+
+
+
+
+<div class="cms_book">
+
+            <a href="http://yuedu.baidu.com/promotion/activity/nafreelist?fr=fenlei" target="_blank">
+
+            <img data-src="http://img.baidu.com/img/iknow/wenku/0yuanfenlei240X90.jpg" alt="0元专区" title="0元专区">
+
+        </a>
+
+            <a href="http://yuedu.baidu.com/promotion/activity/syzbs20151010?fr=ydjd" target="_blank">
+
+            <img data-src="http://img.baidu.com/img/iknow/wenku/sbs240x90.jpg" alt="深夜枕边书" title="深夜枕边书">
+
+        </a>
+
+            <a href="http://yuedu.baidu.com/promotion/activity/mtsdwfz20151010?fr=zbl" target="_blank">
+
+            <img data-src="http://img.baidu.com/img/iknow/wenku/mt240x90.jpg" alt="马桶上的5分钟" title="马桶上的5分钟">
+
+        </a>
+
+    </div>
+</div>
+<div class="mod left_set">
+<div class="current-category">
+<div class="first-level">
+<div class="tab-cate-hd1 tab-cate-first">
+<a href="/book/list/" class="first_level_select"></a>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="cms_book">
+
+            <a href="http://yuedu.baidu.com/promotion/activity/nafreelist?fr=fenlei" target="_blank">
+
+            <img data-src="http://img.baidu.com/img/iknow/wenku/0yuanfenlei240X90.jpg" alt="0元专区" title="0元专区">
+
+        </a>
+
+            <a href="http://yuedu.baidu.com/promotion/activity/syzbs20151010?fr=ydjd" target="_blank">
+
+            <img data-src="http://img.baidu.com/img/iknow/wenku/sbs240x90.jpg" alt="深夜枕边书" title="深夜枕边书">
+
+        </a>
+
+            <a href="http://yuedu.baidu.com/promotion/activity/mtsdwfz20151010?fr=zbl" target="_blank">
+
+            <img data-src="http://img.baidu.com/img/iknow/wenku/mt240x90.jpg" alt="马桶上的5分钟" title="马桶上的5分钟">
+
+        </a>
+
+    </div>
+</div>
+
+</div>
+
+
+<div class="main">
+
+<div class="hd">
+
+<div id="page-curmbs" class="crumbs ui-crumbs">
+<ul alog-group="general.curmbs">
+<li><a href="/" class="logSend" data-logsend='{"send":["general","crumb1"]}'>百度阅读</a></li>
+<li class="current logSend"><a href="/book/list/0" data-logsend='{"send":["general","crumb2"]}'>全部图书</a></li>
+</ul>
+</div>
+
+<div class="sort">
+<a href="/book/list/0?od=0" class="sort-item sort-first "><span class="">热度</span><b></b></a>
+<a href="/book/list/0?od=2" class="sort-item "><span class="">最新</span><b></b></a>
+<a href="/book/list/0?od=1" class="sort-item sort-select"><span class="">销量</span><b></b></a>
+<a href="/book/list/0?od=3" class="sort-item sort-price "><span class="">价格</span><b class="price-up"></b><b class="price-down"></b></a>
+</div>
+</div>
+<div class="bd">
+<div class="booklist">
+<div class="booklist-inner clearfix">
+<div class="book " data-track="0">
+<a class="img-block al " href="/ebook/60788ceb7f1922791688e893?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/10dfa9ec8a1363279939d93d938fa0ec09fac7ec.jpg" alt="人生路上的自我修炼">
+</a>
+<a class="al title-link" href="/ebook/60788ceb7f1922791688e893?fr=booklist" target="_blank">
+<span class="title">人生路上的自我修炼</span>
+</a>
+<p class="author_price">
+<span class="author">（美）奥里森·马登</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>1.99
+</span>
+</p>
+</div>
+<div class="book " data-track="1">
+<a class="img-block al " href="/ebook/172a6258561252d380eb6ef3?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/908fa0ec08fa513ddd286dd03f6d55fbb2fbd93a.jpg" alt="自立">
+</a>
+<a class="al title-link" href="/ebook/172a6258561252d380eb6ef3?fr=booklist" target="_blank">
+<span class="title">自立</span>
+</a>
+<p class="author_price">
+<span class="author">（美）拉尔夫</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>3.00
+</span>
+</p>
+</div>
+<div class="book " data-track="2">
+<a class="img-block al " href="/ebook/10a61ce0195f312b3169a5f4?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/c9fcc3cec3fdfc03765330c6d63f8794a4c226a1.jpg" alt="再苦，也要逼自己一下：50位名人的逆境商修炼">
+</a>
+<a class="al title-link" href="/ebook/10a61ce0195f312b3169a5f4?fr=booklist" target="_blank">
+<span class="title">再苦，也要逼自己一下：50位名人的逆境商修炼</span>
+</a>
+<p class="author_price">
+<span class="author">董权</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>13.99
+</span>
+</p>
+</div>
+<div class="book " data-track="3">
+<a class="img-block al " href="/ebook/d016dafcd5bbfd0a7856730a?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/0b7b02087bf40ad1812acd53552c11dfa8ecceb0.jpg" alt="每天进步一点点大全集">
+</a>
+<a class="al title-link" href="/ebook/d016dafcd5bbfd0a7856730a?fr=booklist" target="_blank">
+<span class="title">每天进步一点点大全集</span>
+</a>
+<p class="author_price">
+<span class="author">水中鱼;张晓萍</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>5.98
+</span>
+</p>
+</div>
+<div class="book rightest" data-track="4">
+<a class="img-block al " href="/ebook/85befcea28ea81c758f5787c?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/8435e5dde71190ef30e1e56fcc1b9d16fdfa6063.jpg" alt="温州人赚大钱成大事的16条商规">
+</a>
+<a class="al title-link" href="/ebook/85befcea28ea81c758f5787c?fr=booklist" target="_blank">
+<span class="title">温州人赚大钱成大事的16条商规</span>
+</a>
+<p class="author_price">
+<span class="author">孙良珠</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>1.00
+</span>
+</p>
+</div>
+<div class="book " data-track="5">
+<a class="img-block al " href="/ebook/18039db9c8d376eeaeaa317f?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/0dd7912397dda144a92f3f17b0b7d0a20cf48674.jpg" alt="谋权之道">
+</a>
+<a class="al title-link" href="/ebook/18039db9c8d376eeaeaa317f?fr=booklist" target="_blank">
+<span class="title">谋权之道</span>
+</a>
+<p class="author_price">
+<span class="author">廖小东</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>5.00
+</span>
+</p>
+</div>
+<div class="book " data-track="6">
+<a class="img-block al " href="/ebook/678eb4060b4c2e3f572763c4?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/622762d0f703918f45f34f6f533d269759eec471.jpg" alt="嫁人的资本">
+</a>
+<a class="al title-link" href="/ebook/678eb4060b4c2e3f572763c4?fr=booklist" target="_blank">
+<span class="title">嫁人的资本</span>
+</a>
+<p class="author_price">
+<span class="author">黄志坚、曾晓玲</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>1.99
+</span>
+</p>
+</div>
+<div class="book " data-track="7">
+<a class="img-block al " href="/ebook/3b68aa7c6edb6f1aff001fcd?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/54fbb2fb43166d221df8c32c452309f79152d2ff.jpg" alt="30岁赚千万">
+</a>
+<a class="al title-link" href="/ebook/3b68aa7c6edb6f1aff001fcd?fr=booklist" target="_blank">
+<span class="title">30岁赚千万</span>
+</a>
+<p class="author_price">
+<span class="author">王保蘅</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>2.99
+</span>
+</p>
+</div>
+<div class="book " data-track="8">
+<a class="img-block al " href="/ebook/d5cb567c7cd184254a35354b?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/21a4462309f7905258ed08a10ff3d7ca7acbd5bb.jpg" alt="每天一堂情商课">
+</a>
+<a class="al title-link" href="/ebook/d5cb567c7cd184254a35354b?fr=booklist" target="_blank">
+<span class="title">每天一堂情商课</span>
+</a>
+<p class="author_price">
+<span class="author">石若坤</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>3.00
+</span>
+</p>
+</div>
+<div class="book rightest" data-track="9">
+<a class="img-block al activity-icon-outter-wrap" href="/ebook/203941b00c22590102029da8?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/37d12f2eb9389b508ada6e6e8135e5dde7116ee1.jpg" alt="历史的诡计">
+<b class="activity-icon-s-right ic-activity-s-1"></b>
+</a>
+<a class="al title-link" href="/ebook/203941b00c22590102029da8?fr=booklist" target="_blank">
+<span class="title">历史的诡计</span>
+</a>
+<p class="author_price">
+<span class="author">龚宇华</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>3.00
+</span>
+</p>
+</div>
+<div class="book " data-track="10">
+<a class="img-block al " href="/ebook/f12c87f1ec3a87c24028c493?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/6159252dd42a2834105d28275fb5c9ea15cebf26.jpg" alt="活学活用博弈论">
+</a>
+<a class="al title-link" href="/ebook/f12c87f1ec3a87c24028c493?fr=booklist" target="_blank">
+<span class="title">活学活用博弈论</span>
+</a>
+<p class="author_price">
+<span class="author">[美]詹姆斯D·米勒</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>18.00
+</span>
+</p>
+</div>
+<div class="book " data-track="11">
+<a class="img-block al " href="/ebook/7facb70f31b765ce04081436?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/8718367adab44aede3a2b59cb71c8701a08bfbde.jpg" alt="洛克菲勒给子女的一生忠告">
+</a>
+<a class="al title-link" href="/ebook/7facb70f31b765ce04081436?fr=booklist" target="_blank">
+<span class="title">洛克菲勒给子女的一生忠告</span>
+</a>
+<p class="author_price">
+<span class="author">[美]洛克菲勒</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>1.00
+</span>
+</p>
+</div>
+<div class="book " data-track="12">
+<a class="img-block al " href="/ebook/38535913b84ae45c3b358cc4?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/5366d0160924ab183cb1e4f731fae6cd7a890b4e.jpg" alt="卡耐基口才学">
+</a>
+<a class="al title-link" href="/ebook/38535913b84ae45c3b358cc4?fr=booklist" target="_blank">
+<span class="title">卡耐基口才学</span>
+</a>
+<p class="author_price">
+<span class="author">[美]卡耐基</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>2.00
+</span>
+</p>
+</div>
+<div class="book " data-track="13">
+<a class="img-block al " href="/ebook/59f44185aeaad1f346933f97?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/cc11728b4710b912b32e89bac0fdfc0393452282.jpg" alt="C语言进阶：重点、难点与疑点解析">
+</a>
+<a class="al title-link" href="/ebook/59f44185aeaad1f346933f97?fr=booklist" target="_blank">
+<span class="title">C语言进阶：重点、难点与疑点解析</span>
+</a>
+<p class="author_price">
+<span class="author">牟海军</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>25.00
+</span>
+</p>
+</div>
+<div class="book rightest" data-track="14">
+<a class="img-block al " href="/ebook/1563ab1a7fd5360cbb1adb28?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/4ec2d5628535e5dd4311719c75c6a7efce1b62b0.jpg" alt="编写高质量代码：改善JavaScript程序的188个建议">
+</a>
+<a class="al title-link" href="/ebook/1563ab1a7fd5360cbb1adb28?fr=booklist" target="_blank">
+<span class="title">编写高质量代码：改善JavaScript程序的188个建议</span>
+</a>
+<p class="author_price">
+<span class="author">成林</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>18.00
+</span>
+</p>
+</div>
+<div class="book " data-track="15">
+<a class="img-block al " href="/ebook/3ce7606179563c1ec5da71cd?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/d000baa1cd11728b65601864cbfcc3cec3fd2c22.jpg" alt="JavaScript入门经典">
+</a>
+<a class="al title-link" href="/ebook/3ce7606179563c1ec5da71cd?fr=booklist" target="_blank">
+<span class="title">JavaScript入门经典</span>
+</a>
+<p class="author_price">
+<span class="author">高春艳;张金辉</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>40.00
+</span>
+</p>
+</div>
+<div class="book " data-track="16">
+<a class="img-block al " href="/ebook/26bc47545727a5e9846a615e?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/960a304e251f95caa0f4e3f3ca177f3e67095275.jpg" alt="Office 2010从入门到精通">
+</a>
+<a class="al title-link" href="/ebook/26bc47545727a5e9846a615e?fr=booklist" target="_blank">
+<span class="title">Office 2010从入门到精通</span>
+</a>
+<p class="author_price">
+<span class="author">华诚科技</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>6.00
+</span>
+</p>
+</div>
+<div class="book " data-track="17">
+<a class="img-block al " href="/ebook/4f7516a8bb4cf7ec4afed0b6?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/a9d3fd1f4134970a7e53416396cad1c8a7865d5d.jpg" alt="C语言入门经典">
+</a>
+<a class="al title-link" href="/ebook/4f7516a8bb4cf7ec4afed0b6?fr=booklist" target="_blank">
+<span class="title">C语言入门经典</span>
+</a>
+<p class="author_price">
+<span class="author">刘志铭;杨丽等</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>40.00
+</span>
+</p>
+</div>
+<div class="book " data-track="18">
+<a class="img-block al " href="/ebook/9b401eba3186bceb19e8bbf7?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/960a304e251f95ca817ec2faca177f3e660952f6.jpg" alt="信息系统监理工程师手册">
+</a>
+<a class="al title-link" href="/ebook/9b401eba3186bceb19e8bbf7?fr=booklist" target="_blank">
+<span class="title">信息系统监理工程师手册</span>
+</a>
+<p class="author_price">
+<span class="author">薛大龙</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>1.99
+</span>
+</p>
+</div>
+<div class="book rightest" data-track="19">
+<a class="img-block al " href="/ebook/1ab5510a9b6648d7c1c746d6?fr=booklist" target="_blank">
+<img src="http://static.wenku.bdimg.com/static/ydcore/widget/ui/images/blank_d42e3d2.gif" data-src="http://hiphotos.baidu.com/doc/abpic/item/eaf81a4c510fd9f92ed632dc262dd42a2934a446.jpg" alt="菜鸟也能玩转Excel：全面武装你的Excel操作能力">
+</a>
+<a class="al title-link" href="/ebook/1ab5510a9b6648d7c1c746d6?fr=booklist" target="_blank">
+<span class="title">菜鸟也能玩转Excel：全面武装你的Excel操作能力</span>
+</a>
+<p class="author_price">
+<span class="author">王杉;巴蕾;刘爽;秦</span>
+<span class="price" style="font-size: 12px;">
+<span>￥</span>12.00
+</span>
+</p>
+</div>
+</div>
+</div>
+<div id="pager">
+<div class="ui-pager pager-center pt25">
+<div class="pager">
+<div class="pager-inner">
+<a href="/book/list/0?od=1&show=0&pn=0" class="first">首页</a><a href="/book/list/0?od=1&show=0&pn=8960" class="pre">&lt;上一页</a><a href="/book/list/0?od=1&show=0&pn=8800" class="no3">441</a><a href="/book/list/0?od=1&show=0&pn=8820" class="no3">442</a><a href="/book/list/0?od=1&show=0&pn=8840" class="no3">443</a><a href="/book/list/0?od=1&show=0&pn=8860" class="no3">444</a><a href="/book/list/0?od=1&show=0&pn=8880" class="no3">445</a><a href="/book/list/0?od=1&show=0&pn=8900" class="no3">446</a><a href="/book/list/0?od=1&show=0&pn=8920" class="no3">447</a><a href="/book/list/0?od=1&show=0&pn=8940" class="no3">448</a><a href="/book/list/0?od=1&show=0&pn=8960" class="no3">449</a><span class="cur no3">450</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+
+    void function(e,t){for(var n=t.getElementsByTagName("img"),a=+new Date,i=[],o=function(){this.removeEventListener&&this.removeEventListener("load",o,!1),i.push({img:this,time:+new Date})},s=0;s< n.length;s++)!function(){var e=n[s];e.addEventListener?!e.complete&&e.addEventListener("load",o,!1):e.attachEvent&&e.attachEvent("onreadystatechange",function(){"complete"==e.readyState&&o.call(e,o)})}();alog("speed.set",{fsItems:i,fs:a})}(window,document);
+
+</script>
+
+</div>
+
+
+</div>
+</div>
+
+</div>
+<div id="ft">
+
+
+<div class="help-wp clearfix">
+<div class="footer-pub wrap1090 clearfix">
+<a href="http://yuedu.baidu.com/promotion/activity/brand#block1" class="footer-pub-item" target="_blank"><span class="footer-pub-icon-1"></span>正版电子书</a>
+<a href="http://yuedu.baidu.com/promotion/activity/brand#block2" class="footer-pub-item" target="_blank"><span class="footer-pub-icon-2"></span>多平台畅读</a>
+<a href="http://yuedu.baidu.com/promotion/activity/brand#block3" class="footer-pub-item" target="_blank"><span class="footer-pub-icon-3"></span>全网最低价</a>
+<a href="http://yuedu.baidu.com/promotion/activity/brand#block5" class="footer-pub-item" target="_blank"><span class="footer-pub-icon-4"></span>海量图书资源</a>
+<a href="http://yuedu.baidu.com/promotion/activity/brand#block4" class="footer-pub-item" target="_blank" style="margin-right:0;"><span class="footer-pub-icon-5"></span>优质阅读体验</a>
+</div>
+<div class="help wrap1090">
+<ul class="clearfix">
+<li class="help-blk">
+<h4>帮助</h4>
+<a href="http://yuedu.baidu.com/customer/yueduhelp?nav=2_1" target="_blank">如何购买图书</a>
+<a href="http://yuedu.baidu.com/customer/yueduhelp?nav=2_3" target="_blank">常见问题</a>
+<a href="http://yuedu.baidu.com/customer/yueduhelp?nav=2_2" target="_blank">支付方式</a>
+<a class="help-blk-feedback" href="http://tieba.baidu.com/p/3200067245" target="_blank">问题反馈</a>
+</li>
+<li class="help-blk">
+<h4>平台入驻</h4>
+<a href="http://yuedu.baidu.com/partner/index?fr=footer" target="_blank">机构专区</a>
+<a href="/partner/browse/advertisepartner?fr=footer#block1" target="_blank">个人作者专区</a>
+</li>
+<li class="help-blk">
+<h4>投诉与建议</h4>
+<a class="help-blk-feedback" href="http://tieba.baidu.com/p/3200067245" target="_blank">问题反馈</a>
+</li>
+<li class="help-blk help-blk-qr">
+<h4>扫描下载客户端</h4>
+<span class="help-qr-icon"></span>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="footer">
+<p class="contact" style="font-size:14px;">
+如有问题欢迎联系<a class="footer-contact-feedback" href="http://tieba.baidu.com/p/3200067245" target="_blank">投诉反馈</a>
+</p>
+<p>
+<span class="cr">&copy;2015&nbsp;Baidu</span>&nbsp;<a href="http://www.baidu.com/duty/" class="Bidu" target="_blank">使用百度前必读</a>
+&nbsp;&nbsp;<span class="line">|</span>&nbsp;&nbsp;<a class="xieyi" target="_blank" href="http://yuedu.baidu.com/customer/yueduhelp?nav=4">平台协议</a>
+</p>
+</div>
+
+</div>
+</div>
+
+<script>with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://img.baidu.com/hunter/yuedu.js?st='+~(new Date()/864e5)];</script>
+<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffa7ccc33a1f01df356d6235a32034c37' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+
+<script>
+
+    window.alogObjectConfig = {
+
+        product: '113',
+
+        page: '113_31',
+
+        speed_page: '',
+
+        speed: {
+
+            sample: '1'
+
+        }
+
+    };
+
+
+
+    
+
+    void function(e,t,n,a,r,o){function c(t){e.attachEvent?e.attachEvent("onload",t,!1):e.addEventListener&&e.addEventListener("load",t)}function i(e,n,a){a=a||15;var r=new Date;r.setTime((new Date).getTime()+1e3*a),t.cookie=e+"="+escape(n)+";path=/;expires="+r.toGMTString()}function s(e){var n=t.cookie.match(new RegExp("(^| )"+e+"=([^;]*)(;|$)"));return null!=n?unescape(n[2]):null}function d(){var e=s("PMS_JT");if(e){i("PMS_JT","",-1);try{e=eval(e)}catch(n){e={}}e.r&&t.referrer.replace(/#.*/,"")!=e.r||alog("speed.set","wt",e.s)}}c(function(){alog("speed.set","lt",+new Date),r=t.createElement(n),r.async=!0,r.src=a+"?v="+~(new Date/864e5),o=t.getElementsByTagName(n)[0],o.parentNode.insertBefore(r,o)}),d()}(window,document,"script","http://img.baidu.com/hunter/alog/dp.min.js");
+
+</script>
+
+
+
+
+<div id="side-bar">
+<div class="btn-wrap mb5">
+<a href="###" class="side-bar-item gotop"><span class="ic"></span></a>
+<a href="###" class="side-bar-item weixin">
+<span class="ic"></span>
+<span class="text-tip">关注<br>微信</span>
+<span class="tooltips-box side-bar-qr-wp">
+<span class="abox"><span class="a1"></span><span class="a2"></span></span>
+<span class="side-bar-qr"></span>
+<span class="side-bar-qr-txt">扫描二维码，快速分享到微信朋友圈</span></span>
+</a>
+<a href="http://weibo.com/readbaidu" class="side-bar-item weibo" target="_blank"><span class="ic"></span><span class="text-tip">关注<br>微博</span></a>
+</div>
+<div class="btn-wrap">
+<a href="http://tieba.baidu.com/p/3200067245" class="side-bar-item fankui log-xsend" data-logxsend="[2, 200206]" target="_blank"><span class="ic">意见反馈</span><span class="text-tip">意见反馈</span></a>
+</div>
+<div class="feedback-remind">
+<a href="###" class="feedback-remind-close"></a>
+<div class="feedback-remind-content"></div>
+<a href="http://tieba.baidu.com/p/3200067245" target="_blank" class="feedback-remind-link  log-xsend" data-logxsend="[2, 200206]"></a>
+</div>
+</div>
+
+
+<script type="text/javascript" charset="UTF-8" src="http://zhifu.baidu.com/static/js/pc/iframe/lbscashier-iframe.js?t=1445430675"></script>
+
+
+<script type="text/javascript">var pageId='wenku-book-list';</script>
+<script type="text/javascript" src="http://img.baidu.com/hunter/wenkumonkey.min.js"></script>
+
+
+<script>alog && alog('speed.set', 'drt', +new Date);</script>
+
+</body><script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcommon/modjs/mod_21fbee4.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"ydcommon:widget/lib/fis/data/data.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/lib/fis/data/data_c8d86b7.js","pkg":"ydcommon:p5"},"ydcommon:widget/lib/fis/template/template.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/lib/fis/template/template_d04cd23.js","pkg":"ydcommon:p5"},"ydcommon:widget/lib/tangram/base/base.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/lib/tangram/base/base_135f589.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/lib/array/array.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/cookie/cookie.js","ydcommon:widget/ui/lib/date/date.js","ydcommon:widget/ui/lib/json/json.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/object/object.js","ydcommon:widget/ui/lib/number/number.js","ydcommon:widget/ui/lib/page/page.js","ydcommon:widget/ui/lib/sio/sio.js","ydcommon:widget/ui/lib/string/string.js","ydcommon:widget/ui/lib/url/url.js","ydcommon:widget/ui/lib/swf/swf.js","ydcommon:widget/ui/lib/platform/platform.js"]},"ydcommon:widget/ui/lib/array/array.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/array/array_4ac5e40.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/browser/browser.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/browser/browser_8a9b5be.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/cookie/cookie.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/cookie/cookie_50c66ca.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/date/date.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/date/date_7957042.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/number/number.js"]},"ydcommon:widget/ui/lib/jquery/jquery.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/jquery/jquery_13f20bf.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/json/json.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/json/json_a593455.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/lang/lang.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/lang/lang_eaf46a7.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/number/number.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/number/number_c200825.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/object/object.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/object/object_d801a39.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/lang/lang.js"]},"ydcommon:widget/ui/lib/page/page.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/page/page_ddf9d38.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/ui/lib/platform/platform.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/platform/platform_aa8d836.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/sio/sio.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/sio/sio_cba0473.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/lang/lang.js"]},"ydcommon:widget/ui/lib/string/string.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/string/string_6043ea3.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/swf/swf.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/swf/swf_88a0722.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/array/array.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcommon:widget/ui/lib/url/url.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/url/url_64f2eca.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/string/string.js","ydcommon:widget/ui/lib/object/object.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcommon:widget/ui/lib/value/value.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/value/value_2f35f17.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/read/yui/dialog/jquery.bgiframe.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/yui/dialog/jquery.bgiframe_61d8107.js","pkg":"ydcommon:p7","deps":["ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/ui/read/yui/dialog/dialog.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/yui/dialog/dialog_9d0a397.js","pkg":"ydcommon:p7","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/layerControl/layerControl.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/read/yui/dialog/jquery.bgiframe.js"]},"ydcommon:widget/ui/read/yui/pager/pager.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/yui/pager/pager_c3b1447.js","pkg":"ydcommon:p7","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/login/login.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/login/login_a487578.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/dialog/dialog.js","ydcommon:widget/lib/fis/data/data.js","ydcommon:widget/ui/js_core/log/log.js"]},"ydcommon:widget/ui/js_core/log/log.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/log/log_662b601.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/lib/fis/data/data.js"]},"ydcommon:widget/ui/js_core/util/util.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/util/util_a6844db.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/widget/widget.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/widget/widget_4be9f1d.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/layerControl/layerControl.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/layerControl/layerControl_c280071.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/mask/mask.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mask/mask_49ab5c3.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/layerControl/layerControl.js"]},"ydcommon:widget/ui/js_core/lightMask/lightMask.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/lightMask/lightMask_a27636e.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/ui/js_core/dialog/dialog.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/dialog/dialog_8826ea7.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/_dialog/mask.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/_dialog/mask_68b2db7.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mask/mask.js"]},"ydcommon:widget/ui/js_core/_dialog/_dialog.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/_dialog/_dialog_cfc9669.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/layerControl/layerControl.js","ydcommon:widget/ui/js_core/_dialog/mask.js"]},"ydcommon:widget/ui/js_core/tabs/tabs.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/tabs/tabs_04dadd6.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js"]},"ydcommon:widget/ui/js_core/countdown/countdown.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/countdown/countdown_a595aab.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/ui/js_core/qrcode/qrcode.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/qrcode/qrcode_e906ef9.js","pkg":"ydcommon:p6"},"ydcommon:widget/ui/js_core/preload/preload.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/preload/preload_d4a2855.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/mvp/event/event.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/event/event_f89227b.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/mvp/model/model.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/model/model_6fb15d5.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/mvp/presenter/presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/presenter/presenter_605ba0c.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/mvp/route/route.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/route/route_49f2f4a.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/mvp/template/template.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/template/template_99cec51.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/mvp/view/view.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/view/view_c3e5a25.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mvp/template/template.js"]},"ydcommon:widget/ui/js_core/template/template.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/template/template_968b424.js","pkg":"ydcommon:p6"},"ydcommon:widget/ui/payCheck/payCheck.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/payCheck/payCheck_60db880.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/read/yui/dialog/dialog.js","ydcommon:widget/ui/js_core/login/login.js","ydcommon:widget/ui/pay/cashier/cashier.js"]},"ydcommon:widget/read/header/user_bar/user_bar.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/read/header/user_bar/user_bar_9e56ff7.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/js_core/dropDown/dropDown.js","ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/lib/fis/data/data.js","ydcommon:widget/ui/pay/cart/cart.js"]},"ydcommon:widget/ui/js_core/yueduSuggestion/model.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/yueduSuggestion/model_dfc9462.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/event/event.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/yueduSuggestion/view.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/yueduSuggestion/view_4342dda.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/event/event.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/mvp/template/template.js","ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/lib/url/url.js","ydcommon:widget/ui/js_core/log/log.js"]},"ydcommon:widget/ui/js_core/yueduSuggestion/presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/yueduSuggestion/presenter_13c19d0.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/js_core/mvp/event/event.js","ydcommon:widget/ui/js_core/yueduSuggestion/view.js","ydcommon:widget/ui/js_core/yueduSuggestion/model.js","ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/yueduSuggestion/yueduSuggestion.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/yueduSuggestion/yueduSuggestion_e66e983.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/yueduSuggestion/presenter.js"]},"ydcommon:widget/ui/js_core/dropDown/dropDown.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/dropDown/dropDown_86ae180.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/layerControl/layerControl.js"]},"ydcommon:widget/ui/read/trigger_ps_tips/trigger_ps_tips.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/trigger_ps_tips/trigger_ps_tips_f90904c.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/read/side_bar/side_bar.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/read/side_bar/side_bar_f11f88e.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/cookie/cookie.js"]},"ydcommon:widget/ui/pay/cashier/cashier.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/pay/cashier/cashier_c451354.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/js_core/template/template.js","ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/js_core/_dialog/_dialog.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/js_core/mvp/template/template.js"]},"ydcommon:widget/ui/pay/cart/cart.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/pay/cart/cart_275d155.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/event/event.js","ydcommon:widget/lib/fis/data/data.js"]},"ydcommon:widget/read/top_reco/top_reco.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/read/top_reco/top_reco_5ce7444.js","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/read/trigger_ps_tips/trigger_ps_tips.js","ydcommon:widget/ui/lib/cookie/cookie.js","ydcommon:widget/ui/js_core/countdown/countdown.js"]},"ydcommon:widget/ui/read/drop_ax/drop_ax.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/drop_ax/drop_ax_e7c7b8f.js","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/lib/cookie/cookie.js"]},"ydcore:widget/ui/vcode/vcode.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/vcode/vcode_2a016b6.js","pkg":"ydcore:p3","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/ui/slide/slide.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/slide/slide_af5cf83.js","pkg":"ydcore:p3","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/ui/lazy_load/lazy_load.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/lazy_load/lazy_load_09bf59b.js","pkg":"ydcore:p3","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/ui/placeholder/placeholder.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/placeholder/placeholder_036beb3.js","pkg":"ydcore:p3","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]}},"pkg":{"ydcommon:p5":{"url":"http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_lib_442ebd1.js"},"ydcommon:p7":{"url":"http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_yui_97b6b64.js"},"ydcommon:p6":{"url":"http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_base_dd4128d.js"},"ydcore:p3":{"url":"http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_comm_7237940.js"}}});</script><script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_lib_442ebd1.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_base_dd4128d.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_yui_97b6b64.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcommon/widget/read/top_reco/top_reco_5ce7444.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_bookList_3db832a.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcore/book_list/book_list_c637750.js"></script>
+<script type="text/javascript">!function(){    require.async(['ydcommon:widget/ui/lib/jquery/jquery.js', 'ydcommon:widget/ui/read/drop_ax/drop_ax.js'], function ($, DropAx) {
+
+                    $(function () {
+
+                var ax = new DropAx({
+
+                    backgroundImage:'http:\/\/img.baidu.com\/img\/iknow\/wenku\/%E6%AD%A3%E5%BC%8F-%E4%B8%8B%E6%B2%89%E9%A1%B51900X380-.jpg',
+
+                    link:'http:\/\/yuedu.baidu.com\/promotion\/yuedutwoyearpc',
+
+                    dropHeight: 340,
+
+                    showTime: Number('5000'),
+
+                    needTimeCountDown: false,
+
+                    needClose: true,
+
+                    cookieExpireTime: 86400000,
+
+                    startTime: Number('1444406400000'),
+
+                    endTime: Number('1444665600000')
+
+                });
+
+            });
+
+            });
+
+}();
+!function(){	require.async(["ydcommon:widget/lib/tangram/base/base.js", "ydcommon:widget/ui/lib/jquery/jquery.js", "ydcommon:widget/ui/js_core/yueduSuggestion/yueduSuggestion.js"],function(e,n,o){var t=n(".s-word").get(0),i=n(".s-placeholder").get(0),u=e.string.trim(baidu.dom.getAttr(t,"data-default"));""!=u&&function(){function n(){""==e.string.trim(t.value)&&e.dom.setStyle(i,"display","inline")}e.on(t,"focus",function(){e.dom.setStyle(i,"display","none")}),e.on(t,"blur",n),e.on(i,"click",function(){t.focus()}),e.on(e.g("topSearchBox"),"submit",function(){""==e.string.trim(t.value)&&(e.dom.setStyle(i,"display","none"),t.value=u)
+}),n()}(),n(".s-submit").click(function(){n(".read-searchbox .search").submit()}),n(document).ready(function(){var n=o({el:e.dom.g("s-word-1")});window.sug=n})});;
+}();
+!function(){            require.async(['ydcommon:widget/ui/lib/jquery/jquery.js', 'ydcommon:widget/ui/js_core/login/login.js', 'ydcommon:widget/ui/js_core/log/log.js'], function ($, login, Log) {
+                $(function() {
+                    $('.ub-login').click(function (e) {
+                        login.login.verlogin(function () {
+
+                        });
+                    });
+                    $('#reg-btn').click(function(e) {
+                        Log.xsend(2, '200063');
+                    });
+                });
+                $( '#reg-btn' ).attr( 'href', 'https://passport.baidu.com/v2/?reg&tpl=do&u=' + encodeURIComponent( location.href ) );
+            });
+        }();
+!function(){    require.async(['ydcommon:widget/read/header/user_bar/user_bar.js']);
+}();
+!function(){    require.async(["ydcommon:widget/lib/tangram/base/base.js", "ydcommon:widget/ui/js_core/login/login.js", "ydcommon:widget/ui/js_core/dropDown/dropDown.js"], function (T, login, dropDown) {
+        T.dom.ready(function(){
+            var TE = T.event,
+                G = T.g;
+
+            var pathName = document.location.pathname,
+            navTest = {
+                "nav-index":/^\/$/i,
+                "nav-category":/^\/book\/list/i,
+                "nav-rank":/^\/rank/i,
+                "nav-author":/^\/partner\/browse\/certificateindex/i,
+                // "nav-activity":/^\/activity\/index/i,
+                "nav-vip":/^\/vip/i,
+                "nav-mobile" : /^\/apps/i,
+                "nav-org": /^\/partner\/index/i
+            },
+            _login = login.login;
+
+            for(var item in navTest){
+                if ( navTest.hasOwnProperty( item ) ) {
+                    var tmp = navTest[item];
+                    if(tmp && tmp.test && tmp.test(pathName)){
+                        $('.'+item).parent().addClass('current');
+                    }
+                }
+            }
+
+            // add by lizhaoji01
+            $('.nav-right-mybook').on('click', function(e) {
+                e.preventDefault();
+                login.login.verlogin(function(){
+                    window.location.href = '/customer/mybook?fr=head_nav';
+                });
+            });
+
+        });
+    });
+}();
+!function(){				require.async(["ydcommon:widget/ui/lib/jquery/jquery.js", "ydcommon:widget/ui/lib/cookie/cookie.js"],function(e){try{window.__header_ax_href__&&window.__header_ax_img__&&e('<a class="header-ax" href="'+window.__header_ax_href__+'"  target="_blank"><img src="'+window.__header_ax_img__+'" data-src="" /></a>').appendTo(".read-searchbox-inner")}catch(_){}});;
+	}();
+!function(){		require.async(['ydcommon:widget/ui/lib/jquery/jquery.js', 'ydcommon:widget/read/side_bar/side_bar.js'],function($,side_bar){
+
+			side_bar.init(parseInt('1200'), '');
+
+		});
+
+	}();</script></html>

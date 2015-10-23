@@ -1,10 +1,9 @@
-#codeing£ºutf8
+#coding£ºutf8
 from pybloom import BloomFilter
 
 fp = open('´úÀí.txt','r')
 list = fp.readlines()
 f = BloomFilter(capacity=10000, error_rate=0.001)
-
 
 for i in list:
         
